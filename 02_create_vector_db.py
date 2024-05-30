@@ -6,8 +6,15 @@ from config import *
 documents_directory = r"C:\Users\ARoncal\source\repos\GENAI-Joao\LLM-Knowledge-Pool-RAG\knowledge_pool"
 
 def get_embedding(text, model=embedding_model):
-   text = text.replace("\n", " ")
-   return local_client.embeddings.create(input = [text], model=model).data[0].embedding
+    text = text.replace("\n", " ")
+    # Break down the text into smaller chunks
+    chunks = [text[i:i+200] for i in range(0, len(text), 200)]
+    embeddings = []
+    for chunk in chunks:
+        embeddings.append(local_client.embeddings.create(input = [chunk], model=model).data[0].embedding)
+    # Average the embeddings
+    embedding = [sum(x)/len(x) for x in zip(*embeddings)]
+    return embedding
 
 # Iterate over all .txt files in the directory
 for filename in os.listdir(documents_directory):
