@@ -12,10 +12,10 @@ parser = LlamaParse(
     language="en",
 )
 
-for document in os.listdir("knowledge_pool"):
+for document in os.listdir(r"C:\Users\ARoncal\source\repos\GENAI-Joao\LLM-Knowledge-Pool-RAG\knowledge_pool"):
     #Iterate through the pdfs
     if document.endswith(".pdf"):
-        filepath = os.path.join("knowledge_pool", document)
+        filepath = os.path.join(r"C:\Users\ARoncal\source\repos\GENAI-Joao\LLM-Knowledge-Pool-RAG\knowledge_pool", document)
 
         # Parse the pdf
         pdf = parser.load_data(filepath)
@@ -23,12 +23,10 @@ for document in os.listdir("knowledge_pool"):
 
         # Save to a txt file
         output_filename = os.path.splitext(document)[0]
-        output_path = os.path.join("knowledge_pool", f"{output_filename}.txt")
-        with open(output_path, 'w') as f:
+        output_path = os.path.join(r"C:\Users\ARoncal\source\repos\GENAI-Joao\LLM-Knowledge-Pool-RAG\knowledge_pool", f"{output_filename}.txt")
+        with open(output_path, 'w', encoding='utf-8') as f:
             f.write(text)
             
         print(f"Finished parsing {document}")
-
-    # juntar todos os documentos a que dei parse num só txt
     
 print("Finished parsing all documents")

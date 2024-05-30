@@ -1,0 +1,1000 @@
+# Thermal behavior of a vertical green facade and its impact on the indoor and outdoor thermal environment
+
+Article in Energy and Buildings · October 2019
+
+DOI: 10.1016/j.enbuild.2019.109502
+
+|CITATIONS|READS|
+|---|---|
+|107|1,020|
+
+7 authors, including:
+
+|Lei Zhang|Deng Zhichao|
+|---|---|
+|South China University of Technology|Liaoning Normal University|
+|49 PUBLICATIONS 734 CITATIONS|1 PUBLICATION 107 CITATIONS|
+
+Qinglin Meng
+
+Tsinghua University
+
+22 PUBLICATIONS 1,143 CITATIONS
+
+Junsong Wang
+
+South China University of Technology
+
+32 PUBLICATIONS 1,317 CITATIONS
+
+All content following this page was uploaded by Lei Zhang on 20 July 2022.
+
+The user has requested enhancement of the downloaded file.
+---
+# Please cite this article as:
+
+Zhang, L., Deng, Z., Liang, L., Zhang, Y., Meng, Q., Wang, J., & Santamouris, M. (2019). Thermal behavior of a vertical green facade and its impact on the indoor and outdoor thermal environment. Energy and buildings, 204, 109502.
+
+# Thermal behavior of a vertical green facade and its impact on the indoor and outdoor thermal environment
+
+|Authors| | |
+|---|---|---|
+|Lei Zhanga|Zhichao Deng|Lisha Liang|
+| | |Yu Zhangb*|Qinglin Meng|Junsong Wang|Mata Santamourisc|
+|a School of Architecture, South China University of Technology, Guangzhou, Guangdong 510641, China|a School of Architecture, South China University of Technology, Guangzhou, Guangdong 510641, China|a School of Architecture, South China University of Technology, Guangzhou, Guangdong 510641, China|
+|b School of Chemistry and Chemical Engineering, South China University of Technology, Guangzhou, Guangdong 510641, China|b School of Chemistry and Chemical Engineering, South China University of Technology, Guangzhou, Guangdong 510641, China|b School of Chemistry and Chemical Engineering, South China University of Technology, Guangzhou, Guangdong 510641, China|
+|c Faculty of Built Environment, University of New South Wales, Sydney 2052, Australia|c Faculty of Built Environment, University of New South Wales, Sydney 2052, Australia|c Faculty of Built Environment, University of New South Wales, Sydney 2052, Australia|
+|*Corresponding author: Yu Zhang. E-mail: arzy@scut.edu.cn.|*Corresponding author: Yu Zhang. E-mail: arzy@scut.edu.cn.|*Corresponding author: Yu Zhang. E-mail: arzy@scut.edu.cn.|
+
+Abstract: Vertical green facades (VGFs) are one of the most promising technologies for reducing building energy consumption and mitigating the urban heat island phenomenon. Many studies have investigated the cooling effects of VGFs; however, research on the thermal behavior of VGFs and the impacts on indoor and outdoor thermal environments are scarce, which limits the understanding and application of VGFs. Therefore, field measurements were conducted in the subtropical city of Guangzhou, China, during hot days. First, the thermal balance of the vegetation canopy was investigated. In particular, the net photosynthesis and transpiration of foliage were measured to estimate the thermal effect of plant physiological activities. Moreover, the operative temperature (OT) and wet bulb globe temperature (WBGT) were measured to assess the comprehensive effects of the VGF on the indoor and outdoor thermal environments, respectively. The results indicated that transpiration could consume approximately 50% of solar radiation absorbed by the vegetation canopy. Furthermore, the thermal effect ratio of net photosynthesis to transpiration was less than 5.5%, suggesting that omission of the thermal effect of the net photosynthesis of climbing plants in thermal balance calculations could result in an error lower.
+---
+# than 2.9%; such a low error may be acceptable for most engineering applications of VGFs. The
+
+VGF caused a decline in room air temperature and mean radiation temperature, resulting in a peak
+
+OT reduction of 3.6°C. Moreover, the peak WBGT in the outdoor environment could be reduced
+
+by up to 2.7°C due to the shading effect and transpiration cooling of the VGF. These findings help
+
+advance our understanding of the thermal transfer process of VGFs and extend the application of
+
+VGFs from a single cooling purpose to comprehensive improvement of the thermal environment.
+
+Keywords: Operative temperature; Thermal behavior; Thermal environment; Vertical green
+
+facade; Wet bulb globe temperature
+
+# 1. Introduction
+
+Energy security and climate change are among the major challenges facing social
+
+development in the 21st century, underscoring the need to save energy [1,2]. Buildings account for
+
+more than one third of global energy consumption and represent an important source of global
+
+greenhouse gas emissions [3]. Therefore, the building sector has the greatest potential for energy
+
+savings.
+
+The building envelope, the boundary between the conditioned interior space and the outdoor
+
+environment, has a major impact on building energy consumption. An estimated 20–60% of
+
+heating and cooling energy used in buildings is affected by the design and construction of the
+
+building envelope [4], highlighting the urgent need to make building envelopes more energy
+
+efficient. To this end, researchers are studying revolutionary technologies, such as phase-change
+
+materials [5], cool coatings [6,7], smart windows [8], and vertical greening systems [9]. Among
+
+these, vertical greening technologies stand out as one of the most promising technologies, because
+
+their application not only improves building energy efficiency but also provides environmental,
+
+social, and economic benefits [10].
+
+Generally, vertical greening systems can be classified into green facades and green walls.
+
+Green facades describe the use of climbing plants to cover vertical surfaces, and can be classified
+
+as direct or indirect. Direct green facades are those in which plants are attached directly to the wall.
+
+Indirect green facades include a supporting structure for vegetation [9,10]. Green walls are
+
+designed using pre-vegetated panels, vertical modules, or planted blankets that are fixed vertically
+
+to the surface to allow plant growth on walls [9,10]. Compared to green walls, green facades are
+---
+simple in composition, easy to install and maintain, have low initial investment and operational
+
+costs, and thus have a lower environmental burden [11] and higher cost performance [12], which
+
+make green facades more easily accepted by architects and owners, and consequently have a broad
+
+application potential. Therefore, in the present study, we focused on indirect vertical green facades
+
+(VGFs).
+
+Many researchers have experimentally investigated the cooling performance of VGFs and
+
+their effects on the energy consumption of air conditioning in summer. Djedjig et al. [13]
+
+presented an experimental approach to determine the hygrothermal impacts of green walls on
+
+buildings coupled with the urban environment. The measurement was conducted on a down-scaled
+
+model similar to a typical urban scene characterized by five rows of street canyons. The
+
+measurement results emphasized the positive effect of green walls in summer and showed
+
+moderate reduction of heat loss in winter. Kenaï et al. [14] experimentally evaluated the influence
+
+of an artificial material and real vegetation on the energy performance of a south vertical wall in
+
+northern France. The results indicated that the shading effect from the artificial material or real
+
+plants reduced the wall temperature and enhanced indoor thermal comfort, especially during
+
+summer. Moreover, a significant decrease in heat flux through the south-oriented wall was
+
+observed with an increase in coverage rate. Vox et al. [15] used the external surface temperature of
+
+the building wall to assess the thermal performance of a green facade, and found that the thermal
+
+effects of the green facade during daytime were driven by solar radiation, wind velocity, and air
+
+relative humidity. Yang et al. [16] used air temperature and surface temperature to evaluate the
+
+cooling effect of a double-skin green facade; the operative temperature (OT) was also measured to
+
+investigate its effect on indoor thermal comfort. Yin et al. [17] employed surface temperature to
+
+assess the cooling effect of a direct green facade and found that the percentage of green coverage
+
+and the cooling effect of the green facade exhibited a linear relationship, while plant thicknesses,
+
+point density, and volume of the VGFs showed power function distributions. Pérez et al. [4]
+
+considered that the shadow effect of plants was the most significant parameter for providing
+
+energy savings in buildings and contributing to urban heat island mitigation. Because the leaf area
+
+index (LAI) can be used to characterize the potential shadow effect of greenery, they established a
+
+common, simple method of measuring the LAI and linked it to the energy savings provided by the
+---
+# green facade
+
+Hoelscher et al. [18] measured air temperature, relative humidity, surface temperature, and incoming short-wave radiation to quantify the cooling effects of a green facade on the building and the street canyon; the surface temperatures of the exterior and interior building walls were markedly decreased by the greening, but no clear differences in ambient air temperature were observed. Perini et al. [19] analyzed the effect of a vertical greening system on air flow, air temperature, and surface temperature, and found that the difference in the air temperature and wind profiles starting from 1 m in front of the facades to inside the foliage were too slight to be significant. However, a significant reduction in surface temperatures behind the green layer compared to bare facades was observed due to the shading effect of the vertical greening system. Pérez et al. [20] monitored the thermal behaviors of a vertical greening system made with modular trellises and wisteria in a dry continental Mediterranean climate during 2008–2009. Through analysis of illuminance, shade factor, building wall surface temperatures, ambient temperature, and relative humidity observation data, the authors confirmed the great capacity of the vertical greening system to intercept radiation and verified the wind barrier and evapotranspiration effects of plants on the surrounding microclimate. Coma et al. [21] compared the thermal performances of a green facade and green wall, and demonstrated a high potential for energy savings during the cooling season for both the green wall (58.9%) and green facade (33.8%) in comparison to the reference system. Additionally, the highest wall temperature reductions occurred on the east and west facades for the green facade cubicle, while in green wall occurred on the south and west orientations. Jim studied the thermal performance of a green facade in the humid tropical climate of Hong Kong, monitoring air and surface temperature, as well as solar radiation. The results indicated that the concrete surface behind the green facade was consistently cooler than the control concrete surface. This cooling effect was the joint result of shading, airgap thermal insulation, and transpiration [22]. Thus, a greater air gap between vegetation and the exterior building wall could provide more external surface cooling, and walls receiving higher solar exposure should be prioritized for greening [23].
+
+As indicated by these findings, the effects of green facades on the thermal environment are mainly driven by the shading, insulation, transpiration, and wind barrier effects of the vegetation canopy. To further describe the radiation and heat transfer processes of green facades, some
+---
+# researchers have carried out theoretical studies and established heat transfer models for thermal analysis of green facades.
+
+For example, Djedjig et al. [24] expanded and improved a previously developed green roof model [25] to assess the impacts of green walls on building energy performance. Their research indicated that the use of green walls on west facades led to maximum cooling effects in summer compared with other orientations. Jim and He [26] proposed a thermodynamics model to simulate the solar radiation transmission and temperature variation in vertical greenery ecosystems. The model was determined by global solar radiation and ground absorption of solar radiation, effective atmosphere and ground long wave radiation, convective heat flux exchange between the ground and atmosphere, and the heat flux of vegetation evapotranspiration. Susorova et al. [27] developed a vegetated facade model to simulate the thermal effects of a building facade covered with a layer of plants. The model accounted for thermal and physical processes in a vegetated exterior wall, including transmission of solar radiation through the vegetation layer, infrared radiative exchange between the facade and sky, the facade and ground, the facade and vegetation layer, convection to and from the facade, evapotranspiration from the plant layer, heat storage in the facade material, and heat conduction through the facade. Larsen et al. [28] presented an alternative simplified method to simulate a double facade with plants. The method replaced the green wall with a fictitious layer that had modified optical properties. It considered the absorption of solar radiation, sensible heat exchange by convection between the leaf and the surrounding air, infrared energy exchange between the leaf and the surroundings, and latent heat expelled by the plant by transpiration. However, energy storage in tissues, conduction through the leaf, and energy for metabolic processes necessary for photosynthetic or catabolic reaction were neglected in the calculations. Šuklje et al. [29] established a mathematical model to analyze the thermal response of vertical greenery systems involving the transfer processes of solar radiation and longwave radiation on exterior surface of the systems. Further, the Penman–Monteith equation was employed to determine the latent heat flux of the systems, and convective heat transfer was evaluated with Newton’s cooling law, considering specific airflow conditions at each analyzed surface with a specific convective heat transfer coefficient.
+
+Although there have been many experimental and theoretical studies of VGFs, many aspects
+---
+still need to be explored. First, most studies have investigated the effect of VGFs on wall surface temperature and room air temperature. However, the evaluation of thermal environments is performed via comfort or heat stress indices and often requires the measurement of air temperature, mean radiant temperature, air velocity, and relative humidity. Therefore, the thermal environment cannot be represented using air and surface temperature alone, and a more comprehensive index is required to evaluate the effects of VGFs on the thermal environment. Moreover, a common assumption in previous theoretical studies has been that the thermal effects of photosynthesis and respiration are sufficiently small that they can be ignored in VGF heat transfer models. However, Feng et al. [30] reported that 9.5% of the total incoming energy was converted by the net photosynthesis of green roof vegetation; therefore, net photosynthesis may be an important component for green roof vegetation and should not be neglected. Unfortunately, the thermal effect of net photosynthesis and its ratio to total incoming energy are still unknown for VGFs; therefore, it has not been verified whether that can be safely ignored, which might affect the accuracy of VGF energy balance models.
+
+To resolve these issues, we performed experimental field measurements in Guangzhou, a subtropical Chinese city, on hot days. Using an experimental set up, the thermal balance of the vegetation canopy was investigated. In particular, the net photosynthesis and transpiration of the foliage were measured to estimate the thermal effect of plant physiological activity. Moreover, in addition to wall surface temperature and room air temperature, OT and wet bulb globe temperature (WBGT) were respectively used to assess the comprehensive effects of the VGF on the indoor and outdoor thermal environments.
+
+# Materials and methods
+
+2.1 Vertical green facade
+
+Orange trumpet vine (Pyrostegia venusta), which is an evergreen species well adapted to subtropical climates, was selected as the vegetation for the VGF system. The vegetation climbed on a planting rack of plastic-coated wire mesh. The dimensions of the planting rack are 2.1 m (width) × 2.1 m (height). The planting rack was placed on the exterior side of the target wall with a distance between the planting rack and the target wall of about 0.5 m. A drip system was used to irrigate the VGF system. Because the species used for the VGF is drought tolerant, the soil of the
+---
+VGF was irrigated twice a day, once at 09:00 and once at 16:00, each for 10 min. The LAI of the VGF was measured with an LAI-2200C plant canopy analyzer (Li-Cor; Lincoln, Nebraska, USA), which is an indirect non-contact instrument used to measure the gap fraction of diffuse radiation transmission observed through the vegetation canopy. The 3-day mean LAI was 4.51 ± 0.033, which was used to describe the leaf density of the vegetation canopy.
+
+2.2 Theoretical analysis
+
+As described previously [27], bare walls receive shortwave solar radiation and longwave thermal radiation. The net radiation absorbed by a wall external surface (qsw,net and q netlw,) is either transferred from the wall via convection to outdoor air (qcw), or transferred to the wall interior via conduction (qdw). At any moment in time, the energy balance of a dry bare wall external surface is:
+
+qsw,net + qlw,net + qcw + qdw = 0 (1)
+
+If a VGF covers the wall external surface, the qsw,net, q net, and lw, qcw values change due to the shade, emission, and wind barrier effects of the VGF, which alter the qdw and corresponding room cooling load. Therefore, the thermal behavior of the VGF is important for calculating the surface heat balance of the wall behind the VGF.
+
+The vegetation canopy of a VGF is composed of foliage and air within the canopy. The main thermal behaviors of the canopy include (1) solar radiation absorption by the vegetation canopy, (2) net longwave radiation in the vegetation canopy, (3) convective heat transfer between the foliage and air, (4) transpiration in foliage, and (5) thermal effects of photosynthesis and respiration.
+
+The vegetation canopy is a porous or semi-transparent layer, which causes uneven distribution of solar radiation, temperature, and humidity in each sub-layer of the vegetation canopy. However, the present study was concerned with the transmitted solar radiation and the thermal behavior of the whole canopy rather than the distribution of solar radiation and temperature in the canopy. Therefore, in this study, the vegetation canopy was considered as one homogeneous large leaf described by density ρ, specific heat at constant pressure cp,f, and thickness d. Under the previous assumptions, the energy balance of the vegetation canopy could
+---
+be expressed by Eq. (2).
+
+LAIdfρfcp,fdts,c = qsc,net + qlc,net + qcc + qtr + qph,net
+dτ
+
+where the term on the left represents the energy stored in the vegetation canopy (leaves and branches), and is usually neglected [28]. qnetsc, and qnetlc, are respectively calculated by Eqs. (3) and (4). qcc is given by Eqs. (5) and (6) [31]. The total amount of qtr and qph,net can be obtained by solving the energy balance equation of the vegetation canopy.
+
+qsc,net = Ic,i - Ic,t - Ic,r
+qlc,net = εf(Rc,i + εwσT4,es - 2σT4,c)s
+qcc = 2 LAIρarahcp,a(ta,c - ts,c)
+rah = alm
+(lts,c - ta,c + bu2)n
+
+where a, b, m, and n are empirical coefficients (a=1174, b=207, m=0.5, n=0.25) [31].
+
+Photosynthesis and respiration are the two main physiological processes of vegetation that link the biosphere and the environment in terms of a continuous energy cycle. In plants, photosynthesis uses light energy, water, and carbon dioxide to produce oxygen and carbohydrates; as such, it converts solar energy into chemical energy. The standard enthalpy of reaction, which is the enthalpy change that occurs in a system when a chemical reaction transforms one mole of matter under standard conditions, is used to calculate the amount of solar energy converted into chemical energy via photosynthesis, as shown in Eq. (7).
+
+qph = -ΔrHmθ(25°C)rph,C6H12O6MC6H12O6
+
+In contrast to photosynthesis, respiration breaks down carbohydrates (mainly glucose) and releases energy, which is eventually converted into heat. Respiration can be considered as the inverse reaction of photosynthesis; therefore, Eq. (8) is used to calculate the heat released from respiration.
+---
+1 qre = ΔrHmθ(25°C)rre,C6H12O6MC6H12O6 (8)
+
+2 In plant physiology, the combination of photosynthesis and respiration is called net
+
+3 photosynthesis. The thermal effect of net photosynthesis is shown in Eq. (9).
+
+4 qph,net = qph + qre = ΔrHmθ(25°C)rnet,C6H12O6MC6 H12O6 (9)
+
+5 where rnet,C6H12O6 is calculated by Eq. (10):
+
+6 rnet,C6H12O6 = rre,C6H12O6 - rph,C6H12O6 (10)
+
+7 The thermal effect of transpiration from plants can be calculated using Eq. (11).
+
+8 qtr = rnet, 2O·LhH (11)
+
+9 Many methods can be used to calculate latent heat due to plant transpiration, such as the
+
+10 Penman–Monteith equation [29]. However, the thermal effect of plant net photosynthesis is
+
+11 difficult to calculate because of the complexity of plant photosynthesis and respiration. In the
+
+12 present study, we used transpiration coefficient (TC) and Eq. (12) to estimate the ratio of thermal
+
+13 effect (η) between the plant net photosynthesis and its transpiration [30].
+
+|qph,net|ΔrHmθ(25°C)rnet,C6H12O6MC6 H12O6|6.5|6.5|
+|---|---|---|---|
+|η|qtr|rnet,H2O·Lh|(rnet,H2O - rnet,C6H12O6)TC|
+
+15 where TC, defined as the mass ratio of consumed water to accumulated organic compounds, is
+
+16 calculated by Eq. (13) [30].
+
+17 TC = rnet,H2O / rnet,C6H12O6 (13)
+
+18 According to Eq. (12), the thermal effect proportional relationship between net
+
+19 photosynthesis and transpiration are determined if the value of TC is known.
+
+20 The net photosynthetic rate (rnet,C6H12O6) can be indirectly measured by observing the
+
+21 variation of carbon dioxide (rnet,CO2) with a photosynthesis testing instrument. Thus, Eq. (14) can
+
+22 be obtained to calculate rnet,C6H12O6.
+---
+1. \( rnet,C6H12O6 = rnet,CO2 \cdot \frac{MC6H12O6}{6MCO2} \) (14)
+
+2. Substituting Eq. (14) into Eq. (13) and rearranging yields:
+
+3. \( TC = \frac{rnet,H2O \cdot 6MCO2}{rnet,CO2 \cdot MC6H12O6} \) (15)
+
+4. In the present study, a portable photosynthesis system Li-6400 (Li-Cor, Lincoln, NE, USA)
+
+5. equipped with a standard 2 cm × 3 cm leaf cuvette was used to measure the CO2 and H2O
+
+6. differentials of air fluxes coming in and out of plant tissue, based on the infrared gas analysis
+
+7. (IRGA) principle. The operating principle of the Li-6400 involves an air stream pumped through a
+
+8. reference and sample cuvette at the same flow rate (mol air/s), from which the mole fractions of
+
+9. CO2 and H2O are determined. The mole fraction differentials for CO2 and H2O from the reference
+
+10. and sample cuvettes are then determined and used to calculate the photosynthetic rate and
+
+11. transpiration rate, respectively. Infrared light is passed through an air stream with CO2 and HO2
+
+12. absorbing at specific and distinct wavelengths. Comparison of the air mole fractions differentials
+
+13. between the sample and reference was done first by transforming the absorbance-specific
+
+14. wavelengths into voltage signals. Figure 1 shows a layout of the basic operating principle of the
+
+15. Li-6400 [32].
+
+Cuvette (a) (b)
+
+\( rnet,CO2 = \frac{(Flow \times \Delta CO2)}{Area} \)
+
+\( rnet,H2O = \frac{(Flow \times \Delta H2O)}{Area} \)
+
+Console (c) Flow meter Sample IGRA Reference IGRA
+
+Fig. 1. Basic operation principle of the Li-6400. (a) Air is simultaneously pumped through the
+
+console into the sample and reference cuvettes, which each contain an IRGA analyzer. Air is
+
+pumped at a constant flow rate set by a flow meter in the console. The differentials of mole air
+
+fractions are used to determine net photosynthetic rate (as CO, μmol/(m2·s)) and transpiration rate2
+---
+# 1 (as H2O, mmol/(m2·s)) by also taking into account the flow rate and area of plant tissue measured.
+
+**(b) Image of the Li-6400 and accessories. (c)** In-site measurement of the photosynthesis and 3560 900 5803 transpiration of foliage. 400
+
+The measurements were carried out on October 28, 2018, from 07:30 to 14:30 at 1-h intervals.
+
+For each measurement, we randomly selected three leaves with good growth, measured each leaf 1000 2000 6–12 times, and took the averages of rnet, 2HO and rnet, CO2 to calculate the TC using Eq. (15) and then the η using Eq. (12).
+
+# 2.3 Field measurements
+
+The field measurements of the VGF were performed in Guangzhou, a subtropical city in southern China (latitude: 23.1°N, longitude: 113.3°E). The climate type of Guangzhou is Cfa (C: temperate, f: humid, a: hot summer) according to the Köppen climate classification [33].
+
+The experimental system was installed on the rooftop of the Building Energy Efficiency 2000 1000 2000 13 Research Center at the South China University of Technology, and consisted of one buffer room and two test rooms, which are shown in Figure 2.
+
+| |Room #1|Room #2|
+|---|---|---|
+|A/C|950|950|
+|Buffer room| | |
+|Computer and Data logger| | |
+|A/C|6450|11|
+---
+# Legend
+
+|Green facade|Pyrgeometer|Pyranometer|
+|---|---|---|
+|Thermocouple temperature sensor|Heat flux sensor|Air temperature and humidity sensor|
+|Wind velocity sensor| | |
+
+Fig. 2 Measurement platform and measuring points (unit: mm). (a) Image of the measurement scene; (b) plan view of the measurement platform; (c) A-A section view of the measurement platform.
+
+The buffer room was used to eliminate the effect of orientation on the test room’s heat gain and place the computer and data logger devices. The buffer room faced west with no shading from surrounding buildings. The dimensions of the buffer room were 6,450 mm (length) × 3,560 mm (width) × 3,100 mm (height). The west wall was constructed (from outside to inside) of 15 mm of cement mortar + 150 mm of lime sand brick + 15 mm of cement mortar.
+
+The two test rooms were built separately inside the buffer room. They had the same dimensions of 2000 mm (length) × 1,900 mm (width) × 2,000 mm (height). Their bottoms were separated from the ground of the buffer room by 200 mm. The east, south, and north walls and ceiling of the two test rooms were composed of 100-mm-thick molded polystyrene board. The bottom was composed of 100-mm-thick extruded polystyrene board. The opening sides of these two test rooms were attached against the internal surface of the west-facing wall of the buffer room.
+
+Previous studies have indicated that the use of VGFs gives the maximal heat flux reduction for the most critical orientations, which are, respectively, the west and south orientations. Additionally, the maximum OT reduction due to the green facade could be observed for the west-orientated wall. Generally, the use of VGFs on west facades contributes to maximum cooling effects in summer compared with other orientations. Therefore, in the present study, we placed the planting rack on the outside of the west wall.
+
+The west wall outside test room #1 was fully covered by the VGF (Fig. 2). The distance between the VGF and west wall external surface was 0.4 m. The width of the VGF canopy was about 0.18 m. As a reference, the external surface of west wall of test room #2 was exposed directly to the outdoor environment, with no VGF.
+---
+# Three pairs of pyranometers and pyrgeometers
+
+|Probe Type|Manufacturer|Country|
+|---|---|---|
+|Pyranometers (CMP3)|Kipp & Zonen|Netherlands|
+|Pyrgeometers (IR02)|Hukseflux|Netherlands|
+
+These instruments were used to observe solar and longwave radiation, respectively. They were all placed 1.35 m above the roof surface. The placement and purpose of each pair were as follows:
+
+1. One pair faced the external surface of the VGF to record the reflected solar radiation and the longwave radiation emitted by the VGF.
+2. A second pair was placed in the air gap between the VGF and the wall, facing the VGF to record the solar radiation transmitted and longwave radiation emitted from the VGF.
+3. The third pair was placed vertically facing the outdoor environment to record incident solar radiation and longwave radiation.
+
+# Five globe temperature sensors
+
+|Sensor Type|Manufacturer|Country|
+|---|---|---|
+|Globe Temperature Sensors (HD 32.2)|Delta Ohm|Italy|
+
+These sensors were used to assess the combined effects of radiation, air temperature, and air velocity on the thermal environment. They were all placed 1.5 m above the roof surface. The placement of the sensors was as follows:
+
+1. One sensor was placed outside the VGF.
+2. One sensor was placed between the VGF and the wall.
+3. Two sensors were placed at the centers of test rooms #1 and #2.
+
+# Thermocouple temperature sensors
+
+For the VGF and the building wall, thermocouple temperature sensors were used as follows:
+
+- Three sensors were used for the VGF to record foliage temperature and air temperature in the vegetation canopy.
+- Three sensors were placed at the center of the external surface of the wall behind the VGF.
+- Three sensors and three heat-flow sensors were placed at corresponding positions of the internal surface of the wall behind the VGF.
+
+During the analysis process, the average values of the results from each measurement point were used as the representative data for each measurement.
+---
+# point (Fig. 2b and 2c).
+
+Theoretically, the VGF could affect air flow near the wall external surface and consequently influence convective heat exchange between the wall and the air. However, measurements of the wind barrier effect of VGFs are scarce. Therefore, we placed three wind velocity sensors (HD 32.2; Delta Ohm, Italy) at different positions of the VGF (i.e., outside the VGF, in the vegetation canopy of the VGF, and behind the VGF) to observe the variation in wind speed (Fig. 2b and 2c). All sensors were placed 1.5 m above the roof surface.
+
+Three temperature and humidity sensors (HOBO Pro V2; Onset, USA) were used to record the variations in air temperature and humidity at different distances from the VGF and the bare wall (Fig. 2b and 2c). All sensors were placed 1.5 m above the roof surface. Two extra temperature and humidity sensors were placed at the centers of test rooms #1 and #2 to observe the variations in indoor air temperature and humidity (Fig. 2b and 2c).
+
+Finally, an automatic electricity meter (Ex250; SIHONG, China) was used to record the electricity consumption of the air conditioner in test room #1 and #2, respectively. Table 1 summarizes the measurement sensors used in the field measurement; all sensors were calibrated before use. The pyranometers, pyrgeometers, thermocouples, and heat-flow sensors were connected to a data logger that scanned all sensors every minute and stored the data in a local server.
+
+|Measurement content|Sensor type|Accuracy|
+|---|---|---|
+|Vertical global radiation|CMP3 pyranometer|± 5.0%|
+|Vertical infrared radiation|IR02 pyrgeometer|± 5.0%|
+|Surface/air temperature|Φ0.2 mm T-type thermocouple|± 0.1°C|
+|Globe temperature| |± 0.1°C|
+|Wind velocity|HD 32.2|±0.05 m/s (0–1 m/s); ±0.15 m/s (1–5 m/s)|
+|Air temperature|HOBO Pro V2|± 0.21°C|
+---
+|Air relative humidity|±2.5% (10–90% RH)|
+|---|---|
+|Temperature (°C)|Heat flux|Heat-flow sensor|± 3%|
+|08/08 14:00|Electricity consumption of the air conditioner|
+|08/08 16:00|Automatic electricity meter|±0.9%|
+
+To assess whether the two test rooms had the same thermal performance under the given on-site conditions, we performed a validation measurement before integrating the VGF. Fig. 3 respectively demonstrates the variations of external surface temperature (twe) as well as internal surface temperature (twi) of the west walls of the two test rooms, and the air temperature of these two test rooms (t). The measurement results of the two test rooms were similar, with average deviations of 0.7°C for external surface temperature, 0.7°C for internal surface temperature, and 0.3°C for room air temperature. These deviations were acceptable for on-site measurements.
+
+|Time (mm/dd hh:mm)|twe,Room #1|twe,Room #2|twi,Room #1|twi,Room #2|ta,Room #1|ta,Room #2|
+|---|---|---|---|---|---|---|
+|08/10 08:00|30| | | | | |
+|08/10 12:00|40| | | | | |
+
+Fig. 3 The validation measurement results before integrated the VGF.
+
+Therefore, we confirmed that, before integrating the VGF, the two test rooms had identical thermal performances. Thus, after integrating the VGF, the thermal performance differences of the test rooms could logically be ascribed to the VGF instead of to differences in the initial design of the test rooms.
+---
+# 2.4 Evaluation indices
+
+We used two indices to assess the comprehensive effect of the VGF on the indoor and outdoor thermal environments. Regarding the indoor thermal environment, room OT combines the effect of room air temperature, mean radiant temperature, and air speed; this is the temperature that people sense in an indoor environment. Therefore, the room OT was used to evaluate the improvement of indoor thermal comfort resulting from the VGF. Since the air movement in each test room was fairly negligible (< 0.1 m/s), the room OT was calculated as shown in Eqs. (16) and (17) [34,35].
+
+top = (ta + tmr) / 2 * εgv^0.6 * 1/4
+
+tmr = ((tg + 273)^4 + 1.1 * 10^8 * D^0.4 * (tg - ta)) - 273
+
+where ε (0.95) and D (0.05 m) are the emittance and diameter of the globe thermometers.
+
+For the outdoor thermal environment, WBGT was selected as the index to assess the thermal environment near the VGF and the bare wall because it considers the comprehensive effect of radiation, temperature, humidity, and wind velocity on heat stress in an individual. WBGT is widely used by the United States National Weather Service and United States Military for identifying levels of heat stress [36]. Moreover, it is used as an ISO standard that outlines a screening method for evaluating the presence of heat stress among workers exposed to hot environments [37]. Compared to the other thermal comfort indices, such as the predicted mean vote and physiological equivalent temperature, WBGT is easily calculated by using dry bulb, wet bulb, and globe temperature [38]:
+
+WBGT = 0.7 * tw + 0.2 * tg + 0.1 * ta
+
+In the present study, ta and tg were respectively measured using the HOBO and HD instruments. The tw was calculated using the enthalpy balance method described by Wang et al. [38].
+
+In this method, tw is defined as the temperature when air and water are directly connected until the air reaches adiabatic saturation under constant pressure, i.e., humid air enthalpy remains unchanged but the relative humidity reaches 100%, which could be expressed as:
+---
+# The enthalpy can be calculated using Eq. (20):
+
+h = 1.006t + W(2501 + 1.86t) (20)
+
+where W is calculated by Eq. (21) [38]:
+
+W = 0.621945p - pw / pw (21)
+
+where pw is determined by Eq. (22):
+
+pw = pws * φ (22)
+
+where pws is calculated using the Hyland–Wexler equation [38]:
+
+lnpws = C1/t + C2 + C3t + C4t2 + C5t3 + C6lnt (23)
+
+where C1, C2, C3, C4, C5, and C6 are coefficients, and C1=−5.8002206×103, C2=1.3914993, C3=−4.8640239×10−2, C4=4.1764768×10−5, C5=−1.4452093×10−8, and C6=6.5459673.
+
+Combining Eqs. (19) to (23), we can calculate h. For a φ is 100%, there is only one unknown quantity, tw, which can be obtained using iterative calculations.
+
+# Results
+
+# Thermal behaviors of the VGF
+
+# Heat balance
+
+The measurement data from 09:00 to 18:00 on September 30 and October 1 were used to analyze the heat balance of the vegetation canopy. Figure 4a illustrates the variations in incident, reflected, and transmitted solar radiation. The peak values of incident solar radiation on the west facade appeared in the afternoon due to the decreased angle of the sun relative to the horizontal surface, and were 626 W/m2 and 382 W/m2 at 16:00 on September 30 and 15:00 on October 1, respectively. The ratios of the reflected solar radiation and the transmitted solar radiation to the incident solar radiation are respectively defined as the reflectance and transmittance of the vegetation canopy. In the present study, the average reflectance and transmittance of the vegetation canopy were 0.26 and 0.14, respectively. Thus, 60% of incident solar radiation was absorbed by the vegetation canopy. Considering the vegetation canopy as a bioshading device, the shading coefficient of this device was 0.14.
+---
+Figure 4b presents the longwave radiation used for the heat balance calculation. The incident environmental longwave radiation on the west facade exhibited similar fluctuations as solar radiation, in that it increased from 09:00 and reached a peak value around 14:00. The longwave radiation from foliage and the wall behind the VGF were closely related to the surface temperature of the foliage and wall in that the peak values of longwave radiation and surface temperature appeared at the same time in the afternoon.
+
+Figure 4c describes the variations in the foliage temperature and air temperature in the canopy. Because the foliage at the outer layer of the vegetation canopy received more solar radiation than that at the inner layer, the surface temperatures of the former were higher than those of the latter; during the afternoon, the difference between these reached as high as 4.9°C. We used the average of the two foliage temperatures to calculate the convective heat exchange between the foliage and the air in the canopy.
+
+Figure 4d presents the wind velocities of three measurement points. No obvious patterns in hourly wind velocity at each measurement point were observed. However, taking the average wind velocity of each measurement site revealed that the average wind velocity in the surrounding environment was 0.7 m/s, which was, respectively, 2.3 and 7 times of those in the air gap and the canopy. Due to the wind barrier effect from the VGF, the wind speed of the space between the wall and the VGF was lower than that of the surrounding environment for most measurement results. However, for a few test results, such as at 13:00 on October 1, the wind velocity in the air gap was 0.21 m/s higher than the velocity in the surrounding environment; this might have been the result of the Venturi effect of airflow [39]. The temperature and heat flux of the wall external surface would be influenced by the wind velocity near the wall surface because wind velocity impacts the convection heat exchange between the wall surface and the air [40]. In the present study, limited by the measurement devices, we did not observe wind direction or external surface heat flux data, so we could not discuss the wind barrier effect or the Venturi effect and their impacts on the convective heat exchange in detail. Such analyses will be performed in a future study.
+---
+| | |1000|700|
+|---|---|---|
+| |Incident solar radiation|Environmental longwave radiation|Longwave radiation from wall behind VGF|
+|800|Transmitted solar radiation|600|Longwave radiation from foliage|
+
+|09/30 09:00|09/30 09:00|600|09/30 10:00|09/30 10:00|
+|---|---|---|---|---|
+|09/30 11:00|500|09/30 11:00|09/30 12:00|09/30 12:00|
+|09/30 13:00|09/30 13:00|09/30 14:00|09/30 14:00| |
+|09/30 15:00|400|09/30 15:00|200|09/30 16:00|09/30 16:00|
+|09/30 17:00|09/30 17:00|09/30 18:00|09/30 18:00| |
+
+| |300|
+|---|---|
+|10/01 09:00|10/01 09:00|10/01 10:00|10/01 10:00|
+|10/01 11:00|10/01 11:00|10/01 12:00|10/01 12:00|
+|10/01 13:00|10/01 13:00|Time (mm/dd hh:mm)|10/01 14:00|Time (mm/dd hh:mm)|10/01 14:00|10/01 15:00|10/01 15:00|
+|10/01 16:00|10/01 16:00| |10/01 17:00|10/01 17:00|10/01 18:00|10/01 18:00|
+
+|23.0|45|Longwave radiation (W/m)|Wind velocity (m/s)|Foliage temperature at the outer layer|Environmental wind velocity|
+|---|---|---|---|---|---|
+|Air temperature in the canopy|2.5|Wind velocity in the canopy| | | |
+|Foliage temperature at the inner layer| |Wind velocity in the air gap| | | |
+
+|09/30 09:00|09/30 09:00|09/30 10:00|
+|---|---|---|
+|09/30 11:00| |09/30 11:00|
+|09/30 12:00|09/30 12:00|09/30 13:00|
+|09/30 13:00|35|09/30 14:00|09/30 14:00|
+|09/30 15:00|1.0|09/30 15:00| |
+|09/30 16:00|09/30 16:00|09/30 17:00|
+|0.5|09/30 18:00|09/30 18:00|
+
+|10/01 09:00|0.0|
+|---|---|
+| |25|10/01 10:00|10/01 10:00|
+|10/01 11:00|10/01 11:00|10/01 12:00|10/01 12:00|
+|10/01 13:00|10/01 13:00|10/01 14:00|10/01 14:00|
+| |10/01 15:00|10/01 15:00|Time (mm/dd hh:mm)|Time (mm/dd hh:mm)|
+|10/01 16:00|10/01 16:00|
+| |10/01 17:00|10/01 17:00|10/01 18:00|10/01 18:00|
+
+| |4|
+|---|---|
+| |5|Fig. 4 Measurement data used for the heat balance analysis of the vegetation canopy: (a) solar|
+| |6|radiation; (b) longwave radiation; (c) foliage and air temperature; (d) wind velocity.|
+| |7|According to the heat balance equations of the vegetation listed in section 2.1 and the|
+| |8|measurement data from 09:00 to 18:00 on September 30 and October 1, the variations in hourly|
+| |9|heat flux were plotted (Fig. 5). The values of qsc,net were always positive during the analysis period,|
+| |10|demonstrating that solar radiation was the main heat source for the vegetation canopy. Most values|
+| |11|of qlc,net, qcc, and qtr+ph,net were negative during the analysis period, which implied that heat|
+| |12|dissipated from the vegetation canopy through longwave radiation, convective heat flux, and latent|
+| |13|heat flux, which kept the vegetation canopy in a state of thermal equilibrium.|
+| |14|Moreover, the peak value of qsc,net appeared in the afternoon due to the lower angle of the sun|
+---
+# Heat Flux (W/m)
+
+| |qsc,net|qlc,net|qcc|qtr+ph,net|
+|---|---|---|---|---|
+|09/30 09:00|27| | | |
+|09/30 10:00| | | | |
+|09/30 11:00|88| | | |
+|09/30 12:00| | | | |
+|09/30 13:00| | | | |
+|09/30 14:00| | | | |
+|09/30 15:00| | | | |
+|09/30 16:00|406| | | |
+|09/30 17:00| | | | |
+|09/30 18:00| | | | |
+|10/01 09:00| | | | |
+|10/01 10:00| | | | |
+|10/01 11:00| | | | |
+|10/01 12:00| | | | |
+|10/01 13:00| | | | |
+|10/01 14:00| | | | |
+|10/01 15:00| | | | |
+|10/01 16:00| | | | |
+|10/01 17:00| | | | |
+|10/01 18:00| | | | |
+
+Time (mm/dd hh:mm)
+
+# Fig. 5 Heat balance of the vegetation canopy.
+
+By summing the hourly calculation results, the heat gain and dissipation of the vegetation canopy during 09:00–18:00 on September 30 and October 1 was respectively obtained and listed in Table 2. The results showed that 100% heat gain originated from solar radiation, which indicated that solar radiation dominated the energy balance of the vertical vegetation canopy. This result is in line with a previous observation made by Sailor [41], who considered solar radiation as the dominant factor of the energy balance of roof horizontal vegetation.
+
+For heat dissipation, the longwave radiation exchange and convective heat transfer respectively accounted for approximately 30% and 20% of the total heat dissipation amount.
+---
+# Transpiration and Net Photosynthetic
+
+Accounted for 50% of all dissipated heat and played the most important role. This ratio was lower than the results of Feng et al. [30], who observed that heat loss through evapotranspiration of green roof plants (Sedum lineare) and the soil system accounted for 58.4% of all dissipated energy. This difference was caused by the fact that the present study considered the heat dissipation from transpiration and net photosynthetic of vegetation canopy instead of the total heat loss from transpiration of vegetation canopy and evaporation of soil system as described by Feng et al. [30].
+
+|Terms|Sep. 30 09:00–18:00 Energy flow (MJ/m2)|Sep. 30 09:00–18:00 Percentage (%)|Oct. 01 09:00–18:00 Energy flow (MJ/m2)|Oct. 01 09:00–18:00 Percentage (%)|
+|---|---|---|---|---|
+|Heat gain q netsc|6.7|100|4.5|100|
+|Total|6.7|100|4.5|100|
+|Heat dissipation q netlc|-1.9|28.4|-1.4|31.1|
+|Heat dissipation qcc|-1.4|20.9|-0.8|17.8|
+|Heat dissipation qtr + qph,net|-3.4|50.7|-2.3|51.1|
+|Total|-6.7|100|-4.5|100|
+
+# Transpiration Coefficient
+
+The hourly TCs are plotted in Figure 6a. The TC of the climbing vegetation fluctuated between 122 and 340. This was basically in line with plant physiology research data, which has reported that the TCs of most plants range from 100 to 1,000 [42]. It should be noted that many parameters affect the TC, such as the water holding capacity of soil and climatic conditions. We did not present a full discussion of TC, because it is beyond the scope of the present study, which is to estimate whether the thermal effect of net photosynthesis impacts the thermal balance of the vegetation layer.
+---
+# 500 8 – Max
+
+# – Max □ Mean
+
+# □ Mean × MinTranspiration coefficient× Min
+
+# 400 6
+
+|09/28 07:30|2|
+|---|---|
+|09/28 08:30|2|
+|09/28 09:30|7|
+|09/28 10:30|8|
+|09/28 11:30|9|
+|09/28 12:30|10|
+|09/28 13:30|11|
+|09/28 14:30|12|
+
+Time (mm/dd hh:mm)
+
+1
+
+09/28 13:30 (a)
+
+09/28 14:30 (b)
+
+Fig. 6 (a) Hourly transpiration coefficients and (b) thermal effect ratios between net q/q(%)ph,nettr4 photosynthesis and transpiration.
+
+According to Figure 6b, the thermal effect ratios between net photosynthesis and transpiration were less than 5.5%. This implies that neglecting the thermal effect of net photosynthesis of the climbing plant in the thermal balance calculation process could result in an error lower than 2.9%, which could be acceptable for most engineering applications of VGFs.
+
+3.2 Impact of the VGF on the thermal environment
+
+3.2.1 Temperature and heat flux
+
+Figure 7 presents a summary of the measured facade surface temperature and heat flux. The external surface temperature of the wall behind the VGF was consistently lower than that of the bare wall. During the afternoon, the west bare wall received intensive direct solar radiation and the external surface temperature reached a peak of 51.4°C on September 15 at 16:00. Meanwhile, the wall behind the VGF only received 14% of the incident solar radiation due to the shading effect of the vegetation canopy, so the peak external surface temperature of the wall behind the VGF was only 37.2°C (i.e., 14.2°C lower than that of the bare wall). At night and in the morning, the difference between the external surface temperature of the bare wall and the wall behind the VGF was not as large as that during the afternoon because the vegetation canopy attenuated longwave radiation and convective heat dissipation of the wall behind the VGF. This result was consistent with the observations of Susorova et al. [43], who suggested that the vegetative layer prevented nighttime cooling of the wall via skyward longwave radiation and/or outward convection.
+---
+# The variations in internal surface temperature between the bare wall and VGF-covered wall
+
+The variations in internal surface temperature between the bare wall and VGF-covered wall were similar to those of the corresponding external surfaces, with the internal surface temperature of the VGF-covered wall lower than that of the bare wall. However, there was an attenuation of the amplitudes of the internal surface temperatures for both cases, as well as a phase delay of the temperature wave due to the effect of heat storage in the wall. The peak internal surface temperatures of the bare wall and VGF-covered wall were 41.2°C and 35.0°C, respectively, which occurred at 19:00.
+
+|Time (mm/dd hh:mm)|twe,b|twe,g|twi,b|twi,g|ta,b|ta,g|qwi,b|qwi,g|
+|---|---|---|---|---|---|---|---|---|
+|09/14 02:00| | | | | | | | |
+|09/14 04:00| | | | | | | | |
+|09/14 06:00| | | | | | | | |
+|09/14 08:00| | | | | | | | |
+|09/14 10:00| | | | | | | | |
+|09/14 12:00| | | | | | | | |
+|09/14 14:00| | | | | | | | |
+|09/14 16:00| | | | | | | | |
+|09/14 18:00| | | | | | | | |
+|09/14 20:00| | | | | | | | |
+|09/14 22:00| | | | | | | | |
+|09/14 24:00| | | | | | | | |
+|09/15 02:00| | | | | | | | |
+|09/15 04:00| | | | | | | | |
+|09/15 06:00| | | | | | | | |
+|09/15 08:00| | | | | | | | |
+|09/15 10:00| | | | | | | | |
+|09/15 12:00| | | | | | | | |
+|09/15 14:00| | | | | | | | |
+|09/15 16:00| | | | | | | | |
+|09/15 18:00| | | | | | | | |
+|09/15 20:00| | | | | | | | |
+|09/15 22:00| | | | | | | | |
+|09/15 24:00| | | | | | | | |
+
+Fig. 7 Variations in wall surface temperatures and heat fluxes. twe,b: external surface temperature of the bare wall. twe,g: external surface temperature of the VGF-covered wall. twi,b: internal surface temperature of the bare wall. twi,g: internal surface temperature of the VGF-covered wall. ta,b: air temperature in the room without a VGF. ta,g: air temperature in the room with a VGF. qwi,b: internal surface heat flux of the bare wall. qwi,g: internal surface heat flux of the VGF-covered wall.
+---
+# Electricity consumption of air conditioner (kWh)
+
+|Time|Electricity consumption of air conditioner (kWh)|
+|---|---|
+|9/20 13:00-15:00|2|
+|9/20 16:00-18:00|3|
+|9/20 19:00-21:00|4|
+|9/20 22:00-24:00|5|
+|9/21 01:00-03:00|6|
+|9/21 04:00-06:00|7|
+|9/21 07:00-09:00|8|
+|9/21 10:00-12:00|9|
+|9/21 13:00-15:00|10|
+|9/21 16:00-18:00|11|
+|9/21 19:00-21:00|12|
+|9/21 22:00-24:00|13|
+|9/22 01:00-03:00|14|
+|9/22 04:00-06:00|15|
+|9/22 07:00-09:00|16|
+|9/22 10:00-12:00|17|
+
+The energy consumed by each test room and the incident solar radiation on the west facade during two consecutive summer days are plotted in Figure 8. Eg and Eb are the electricity consumption of air conditioner in the test room with and without VGF, respectively.
+
+|Time (mm/dd hh:mm)|0|2|4|6|8|
+|---|---|---|---|---|---|
+|0.0|0.0|0.2|0.4|0.6|0.8|
+---
+# Fig. 8 Electricity consumption of air conditioning.
+
+The peak Eg and Eb were not concurrent with the maximum incident solar radiation on the west facade because of the thermal inertia of the wall construction. For example, the incident solar radiation on the west facade reached a maximum of 2.2 GJ/m2 during 13:00–15:00 on September 21, while Eg and Eb reached peaks about 3 h later, which was approximately equal to the lag time between the peak values of the internal and external surface temperatures. Additionally, the variations in Eg were similar to that of Eb. There was no obvious time lag between the peak values of Eg and Eb, which again implied that the climbing vegetation did not provide extra thermal inertia to the building envelope. This result is in line with the previous finding of Coma et al. [21].
+
+Second, compared to Eg, Eb was markedly higher as expected. The differences between Eg and Eb were more obvious in the afternoon, and could reach 29.5%. By contrast, their difference at night was as small as 1.6% due to the absence of solar radiation and, consequently, no effect of the shadow from the VGF. The lowest differences in energy consumption between Eg and Eb occurred from 10:00 to 12:00. During the two study days, the total Eg was 5.5 kWh, which was 17.1% lower than that of Eb. This energy saving rate was lower than that in a previous report by Coma et al. [21], in which the east, south, and west walls of the test cubicle were covered by climbing vegetation, allowing the energy saving rate of the double-skin green facade to reach 33.8%.
+
+# Thermal environment
+
+In the present study, the two test rooms were investigated from a comfort perspective. The OT profiles, rather than room air temperature profiles, are plotted in Figure 9, as OT directly affects comfort according to well-established comfort theories [44].
+
+During the two hot days, a peak OT of 38.8°C was observed in the test room without the VGF (Fig. 9). Meanwhile, the sensible reduction in the internal surface temperature of the west wall with the VGF led to a substantial reduction in the OT of the test room. Specifically, the peak and mean OTs in the room with the VGF were 3.6°C and 1.6°C lower than those in the reference room, respectively, which contributed to improving the room thermal comfort and reducing the running time of the air conditioning system.
+---
+# Fig. 9 Effect of the vertical green facade on the operative temperature profile.
+
+|Time (mm/dd hh:mm)|Operative temperature (°C)|
+|---|---|
+|09/14 02:00|32|
+|09/14 04:00|36|
+|09/14 06:00|40|
+|09/14 08:00|36|
+|09/14 10:00|32|
+|09/14 12:00|36|
+|09/14 14:00|40|
+|09/14 16:00|36|
+|09/14 18:00|32|
+|09/14 20:00|36|
+|09/14 22:00|40|
+|09/14 24:00|36|
+|09/15 02:00|32|
+|09/15 04:00|36|
+|09/15 06:00|40|
+|09/15 08:00|36|
+|09/15 10:00|32|
+|09/15 12:00|36|
+|09/15 14:00|40|
+|09/15 16:00|36|
+|09/15 18:00|32|
+|09/15 20:00|36|
+|09/15 22:00|40|
+|09/15 24:00|36|
+
+Regarding the outdoor thermal environment, the hourly variations of the WBGT at three test points are plotted in Figure 10, taking the results of September 30 as an example. Test point A was outside the bare wall, with a distance of 0.19 m between the test point and the bare wall. Test point B was outside the VGF, with a distance of 0.32 m between the test point and the VGF. Test point C was at the air gap between the VGF and the wall. With reference to the solar radiation measurement results (see Fig. 4a), during 09:00–19:00, the average incident solar radiation was 296 W/m2 while the average transmitted solar radiation through the VGF was only 39 W/m2, and almost 90% of incident solar radiation was absorbed or reflected by the VGF. This shading effect of the VGF substantially decreased the globe temperature behind the VGF, which resulted in a reduction in WBGT. Specifically, the peak and average WBGT of test point C were respectively 25.5°C and 23.7°C, which were 2.7°C and 1.1°C lower than those of test point A, respectively. Additionally, the WBGT values of test point C were below 26°C, which indicated that about 80% of people would accept the thermal environment behind the VGF [45], even during the hottest period of the day (14:00–17:00).
+
+The WBGT values at test points A and B were almost the same at 09:00 and 10:00 due to the absence of direct solar radiation. From 10:00 to 12:00, test point B received direct solar radiation from the southeast, whereas test point A was in the shadow of the roof, which caused the WBGT value of test point B to be about 2°C higher than that of test point A. From 13:00 to 19:00,
+---
+# 1
+
+although test points A and B were both exposed to solar radiation, the WBGT values at test point
+
+# 2
+
+B were lower than those at test point A because less longwave radiation was received at test point
+
+# 3
+
+B from the VGF than that by test point A from the bare wall. During the hottest period of the dayWBGT (°C)
+
+# 4
+
+(14:00–17:00), a maximum difference of 1.9°C between the WBGT values at test points A and B was observed (Fig. 10).
+
+# 6
+
+It should be noted that the location represented by point C was used to demonstrate an outdoor site in the shadow of a VGF that could have an acceptable thermal environment, even though, in the present study, people cannot participate in activities in this area of the study site. In addition, point A and point B were very close to the bare wall and the VGF, respectively, so that the two test points could receive most of the longwave radiation from each respective target object
+
+# 11
+
+rather than other surfaces.
+
+# 12
+
+The results of the WBGT measured at the three test points indicate that, during the hot season, the most important contribution of the VGF to improve the outdoor thermal environment is its shading effect, which decreases the solar radiation heat received by people; this is followed by transpiration by vegetation, which diminishes the surface temperature of the VGF and reduces the longwave radiation heat that can reach people.
+
+|Test point A|Test point B|Test point C|
+|---|---|---|
+|30| | |
+|28| | |
+|26| | |
+|24| | |
+|22| | |
+|20| | |
+
+Time (mm/dd hh:mm)
+
+Fig. 10 Wet bulb globe temperature (WBGT) profiles at the three test points.
+
+# 19
+
+4. Discussion
+
+# 20
+
+VGFs have complex impacts on building and urban thermal environments due to the randomicity and dynamics of the surrounding environment, such as radiation, wind flow, rain, and
+---
+dust. Thus, it is a major challenge to perform full-scale field validation (e.g., one street with VGFs versus one street without VGFs within the same city district). This limitation could potentially be overcome using the latest sensor technology, such as intelligent microsensors with wireless network. Intelligent microsensors can be used to conduct long-term observations related to street thermal environment, and the collected data are wirelessly transmitted to a remote server for further analysis. Recent reports indicate that the application of this technology can provide the high level of reliability demanded by this application at a reasonable cost [46–48]. In addition, unmanned aerial vehicles (UAVs), equipped with infrared imagers and various environmental parameter sensors, might also be used to observe the effects of VGFs on street thermal environment. Recent research demonstrates that the integration of sensors on UAVs provides an enhanced and flexible measured survey solution with accurate data captured on site. For example, the high-resolution imagery obtained can provide the detailed thermal information essential to classify urban material and assess surface energy balance [49].
+
+As an innovative technology for building energy efficiency, applying VGFs in the real world might pose some challenges, including the additional costs of installation and maintenance, and potential moisture issues on the building facade. First, a cost analysis of existing VGFs indicated that the cost was $35–50 per m2 for a direct greening system, $45–80 per m2 for an indirect greening system, $110–880 per m2 for living wall systems with planter boxes, and $820–1300 per m2 for living wall systems based on foam substrate [50]. Within the given range, the costs depend on the façade surface and height, location, connections, materials, etc.. Living wall systems are much more expensive than direct and indirect greening systems due to the maintenance needed (e.g., nutrients and watering system), the materials involved and the design complexity. Automation and other technologies, such as intelligent irrigation systems and recyclable materials, could reduce the installation and maintenance costs of VGFs [51–53]. Regarding potential moisture issues, to prevent moisture infiltration from the substrate of VGFs to the wall, a waterproof membrane could be placed between the substrate and wall external surface. Additionally, plant root systems of VGFs grow, strengthen, and move through substrate seeking nutrients and water. Over time, without proper protection, roots can penetrate the wall assembly resulting in cracks and holes where moisture infiltrates. Thus, a root barrier layer between the
+
+28
+---
+# VGFs and the waterproof membrane could be used to avoid this issue by protecting the building wall from plant roots and providing an extra waterproof membrane between the VGF and wall [54].
+
+# Conclusions
+
+We investigated the thermal behaviors of a VGF and its impact on the indoor and outdoor thermal environments in a subtropical city during hot days. The main conclusions can be summarized as follows:
+
+- Solar radiation was the main source of heat gain in the vertical vegetation canopy and dominated its energy balance process. The vegetation canopy of the VGF could consume more than half of the absorbed solar energy during the transpiration process, supporting transpiration as one of the most important sources of cooling. Approximately 30% and 20% of the absorbed solar energy was respectively dissipated by longwave radiation exchange between the canopy and around environment and convective heat transfer between the foliage and the air.
+- The thermal effect ratio of net photosynthesis to transpiration was less than 5.5%, which implied that neglecting the thermal effect of net photosynthesis of the climbing plant in the thermal balance calculation could result in an error lower than 2.9%; this could potentially be acceptable for most engineering applications.
+- Besides its obvious cooling and energy saving effects, a VGF can improve the quality of the indoor and outdoor thermal environments. The installation of the VGF on the outside of the west wall yielded a decline in room air temperature and mean radiation temperature, resulting in a 3.6°C reduction in the peak OT. Moreover, the peak WBGT in the outdoor environment could be reduced by up to 2.7°C because of the shading effect and transpiration cooling of the VGF.
+- Although the present study is case specific in terms of the measurement location and season, it is generic in nature and can be applied to other cases to clarify the thermal behavior of VGFs. Specifically, this study design can be used to investigate the thermal effect ratios between net photosynthesis and transpiration, which could be used to optimize the heat transfer model of VGFs. Moreover, we extended the application of VGFs from a single cooling purpose to comprehensive improvement of the thermal environment, thereby improving the case for their application.
+
+In future studies, we plan to optimize the VGF heat transfer model and integrate it into
+---
+# building energy simulation platforms to evaluate the effects of VGFs on building energy
+
+consumption and greenhouse gas emissions. Additional research should also consider the
+
+optimization of the shading effect and transpiration cooling of VGFs to enhance the beneficial
+
+effects of VGFs on the indoor and outdoor thermal environments.
+
+# Nomenclature
+
+|c_fp|Specific heat of foliage at constant pressure (kJ/(kg·K))|
+|---|---|
+|c_ap|Specific heat of air at constant pressure (kJ/(kg·K))|
+|D|Diameter of the globe thermometer (m)|
+|df|Thickness of foliage (m)|
+|h|Moist air specific enthalpy (kJ/kg)|
+|hta|Enthalpy under air dry bulb temperature (kJ/kg)|
+|htw|Enthalpy under air wet bulb temperature (kJ/kg)|
+|I_ic|Incident solar radiation of the vegetation canopy (W/m2)|
+|I_rc|Reflected solar radiation of the vegetation canopy (W/m2)|
+|I_tc|Transmitted solar radiation of the vegetation canopy (W/m2)|
+|l|Leaf characteristic length (m)|
+|LAI|Leaf area index|
+|Lh|Latent heat of vaporization (kJ/kg)|
+|MC6H12O6|Molar mass of glucose (g/mol)|
+|MCO2|Molar mass of carbon dioxide (g/mol)|
+|p|Standard barometric pressure (Pa)|
+|pw|Partial pressure of water vapor (Pa)|
+|pws|Saturation pressure of water vapor (Pa)|
+|qcc|Convective heat exchange between the foliage and air (W/m2)|
+|qcw|Convection heat exchange between the wall surface and surrounding air (W/m2)|
+---
+|Symbol|Description|Unit|
+|---|---|---|
+|qw|Conduction heat transfer of the wall external surface|W/m2|
+|qnetlc|Net longwave thermal radiation of the vegetation canopy|W/m2|
+|qnetlw|Net longwave radiation on the wall surface|W/m2|
+|qph,net|Thermal effect of net photosynthesis|W/m2|
+|qph|Thermal effect of photosynthesis|W/m2|
+|qre|Thermal effect of respiration|W/m2|
+|qnetsc|Net solar radiation of the vegetation canopy|W/m2|
+|qsw,net|Net solar radiation on wall surface|W/m2|
+|qtr|Latent heat flux due to plant transpiration|W/m2|
+|rah|Mean canopy resistance to sensible heat transfer|s/m|
+|Ri|Incident longwave radiation|W/m2|
+|rnet,C6H12O6|Net photosynthetic rate in terms of glucose|kg/(m2·s)|
+|rnet,CO2|Net photosynthetic rate in carbon dioxide|kg/(m2·s)|
+|rnet, 2HO|Transpiration rate|kg/(m2·s)|
+|rph,C6H12O6|Photosynthetic rate in glucose|kg/(m2·s)|
+|rre,C6H12O6|Respiratory rate in glucose|kg/(m2·s)|
+|t|Dry-bulb temperature|°C|
+|ta|Room air temperature|°C|
+|tca|Air temperature in the vegetation canopy|°C|
+|TC|Transpiration coefficient| |
+|tg|Globe temperature in the room|°C|
+|tmr|Mean radiant temperature in the room|°C|
+|top|Operative temperature in the room|°C|
+---
+# cs, Vegetation canopy temperature (°C)
+
+# T cs, Thermodynamic temperature of the vegetation canopy (K)
+
+# T es, Thermodynamic temperature of the wall surface (K)
+
+# tw Wet-bulb temperature (°C)
+
+# u Wind speed in the vegetation canopy (m/s)
+
+# va Wind speed in test rooms (m/s)
+
+# W Humidity ratio (kg/kg)
+
+# Δ Hmr θ(25°C) Standard enthalpy of reaction at 25 °C (J/mol)
+
+# εf Longwave emittance of the foliage
+
+# εg Longwave emittance of the globe thermometers
+
+# εw Longwave emittance of the wall
+
+# ρa Density of air (kg/m3)
+
+# ρf Density of foliage (kg/m3)
+
+# σ Stephen-Boltzmann constant
+
+# τ Time interval
+
+# φ Relative humidity of air at a given temperature (%)
+
+# Acknowledgements
+
+This work was supported by the National Natural Science Foundation of China [grant number 51678243]; National Key R&D Program of China [grant number 2017YFC0702200]; Science and Technology Projects of Ministry of Housing and Urban-Rural Development [grant numbers 2018K1020 and 2018K1013]; Guangdong Natural Science Foundation [grant numbers 2016A030313506 and 2018A0303130094]; and Project of State Key Lab of Subtropical Building Science, South China University of Technology [grant number 2018ZA01].
+
+# Conflict of interest statement:
+
+There is no conflict of interests regarding the publication of this article.
+
+32
+---
+# References
+
+Demski, C., Poortinga, W., Whitmarsh, L., Böhm, G., Fisher, S., Steg, L., ... & Pohjolainen, P.
+(2018). National context is a key determinant of energy security concerns across Europe. Nature Energy, 3(10), 882–888.
+Jewell, J., Vinichenko, V., McCollum, D., Bauer, N., Riahi, K., Aboumahboub, T., ... & Marangoni, G.
+(2016). Comparison and interactions between pe long-term pursuit of energy independence and climate policies. Nature Energy, 1(6), 16073.
+Thomsen, K. E., Rose, J., Mørck, O., Jensen, S. Ø., Østergaard, I., Knudsen, H. N., & Bergsøe, N. C.
+(2016). Energy consumption and indoor climate in a residential building before and after comprehensive energy retrofitting. Energy and Buildings, 123, 8–16.
+Pérez, G., Coma, J., Sol, S., & Cabeza, L. F.
+(2017). Green facade for energy savings in buildings: The influence of leaf area index and facade orientation on pe shadow effect. Applied energy, 187, 424–437.
+Zhou, D., Zhao, C. Y., & Tian, Y.
+(2012). Review on permal energy storage wip phase change materials (PCMs) in building applications. Applied energy, 92, 593–605.
+Raman, A. P., Anoma, M. A., Zhu, L., Rephaeli, E., & Fan, S.
+(2014). Passive radiative cooling below ambient air temperature under direct sunlight. Nature, 515(7528), 540–544.
+Zhai, Y., Ma, Y., David, S. N., Zhao, D., Lou, R., Tan, G., ... & Yin, X.
+(2017). Scalable-manufactured randomized glass-polymer hybrid metamaterial for daytime radiative cooling. Science, 355(6329), 1062–1066.
+Connelly, K., Wu, Y., Chen, J., & Lei, Y.
+(2016). Design and development of a reflective membrane for a novel Building Integrated Concentrating Photovoltaic (BICPV) ‘Smart Window’ system. Applied energy, 182, 331–339.
+Safikhani, T., Abdullah, A. M., Ossen, D. R., & Baharvand, M.
+(2014). A review of energy characteristic of vertical greenery systems. Renewable and Sustainable Energy Reviews, 40, 450–462.
+Manso, M., & Castro-Gomes, J.
+(2015). Green wall systems: a review of peir characteristics. Renewable and Sustainable Energy Reviews, 41, 863–871.
+Ottelé, M., Perini, K., Fraaij, A. L. A., Haas, E. M., & Raiteri, R.
+(2011). Comparative life
+---
+# cycle analysis for green façades and living wall systems. Energy and Buildings, 43(12), 3419–3429.
+
+[12] Perini, K., & Rosasco, P. (2013). Cost–benefit analysis for green façades and living wall systems. Building and Environment, 70, 110–121.
+
+[13] Djedjig, R., Belarbi, R., & Bozonnet, E. (2017). Experimental study of green walls impacts on buildings in summer and winter under an oceanic climate. Energy and Buildings, 150, 403-411.
+
+[14] Kenaï, M. A., Libessart, L., Lassue, S., & Defer, D. (2018). Impact of plants occultation on energy balance: Experimental study. Energy and Buildings, 162, 208-218.
+
+[15] Vox, G., Blanco, I., & Schettini, E. (2018). Green façades to control wall surface temperature in buildings. Building and Environment, 129, 154–166.
+
+[16] Yang, F., Yuan, F., Qian, F., Zhuang, Z., & Yao, J. (2018). Summertime thermal and energy performance of a double-skin green facade: A case study in Shanghai. Sustainable Cities and Society, 39, 43–51.
+
+[17] Yin, H., Kong, F., Middel, A., Dronova, I., Xu, H., & James, P. (2017). Cooling effect of direct green façades during hot summer days: an observational study in Nanjing, China using TIR and 3DPC data. Building and Environment, 116, 195–206.
+
+[18] Hoelscher, M. T., Nehls, T., Jänicke, B., & Wessolek, G. (2016). Quantifying cooling effects of facade greening: Shading, transpiration and insulation. Energy and Buildings,114, 283–290.
+
+[19] Perini, K., Ottelé, M., Fraaij, A. L. A., Haas, E. M., & Raiteri, R. (2011). Vertical greening systems and the effect on air flow and temperature on the building envelope. Building and Environment, 46(11), 2287–2294.
+
+[20] Pérez, G., Rincón, L., Vila, A., González, J. M., & Cabeza, L. F. (2011). Green vertical systems for buildings as passive systems for energy savings. Applied energy, 88(12), 4854–4859.
+
+[21] Coma, J., Pérez, G., de Gracia, A., Burés, S., Urrestarazu, M., & Cabeza, L. F. (2017). Vertical greenery systems for energy savings in buildings: A comparative study between green walls and green facades. Building and environment,111, 228–237.
+
+[22] Jim, C. Y. (2015). Thermal performance of climber greenwalls: Effects of solar irradiance and orientation. Applied energy, 154, 631–643.
+
+[23] Lee, L. S., & Jim, C. Y. (2017). Subtropical summer thermal effects of wirerope climber
+---
+# green walls with different air-gap depths. Building and Environment, 126, 1–12.
+
+[24] Djedjig, R., Bozonnet, E., & Belarbi, R. (2015). Analysis of thermal effects of vegetated envelopes: Integration of a validated model in a building energy simulation program. Energy and buildings, 86, 93-103.
+
+[25] Djedjig, R., Ouldboukhitine, S. E., Belarbi, R., & Bozonnet, E. (2012). Development and validation of a coupled heat and mass transfer model for green roofs. International Communications in Heat and Mass Transfer, 39(6), 752-761.
+
+[26] Jim, C. Y., & He, H. (2011). Estimating heat flux transmission of vertical greenery ecosystem. Ecological Engineering, 37(8), 1112–1122.
+
+[27] Susorova, I., Angulo, M., Bahrami, P., & Stephens, B. (2013). A model of vegetated exterior facades for evaluation of wall thermal performance. Building and Environment, 67, 1–13.
+
+[28] Larsen, S. F., Filippín, C., & Lesino, G. (2015). Modeling double skin green façades with traditional thermal simulation software. Solar Energy, 121, 56–67.
+
+[29] Šuklje, T., Medved, S., & Arkar, C. (2016). On detailed thermal response modeling of vertical greenery systems as cooling measure for buildings and cities in summer conditions. Energy, 115, 1055–1068.
+
+[30] Feng, C., Meng, Q., & Zhang, Y. (2010). Theoretical and experimental analysis of the energy balance of extensive green roofs. Energy and buildings, 42(6), 959–965.
+
+[31] Del Barrio, E. P. (1998). Analysis of the green roofs cooling potential in buildings. Energy and buildings, 27(2), 179–193.
+
+[32] LiCOR, 1999. Using the LI-6400.
+
+[33] Beck, H. E., Zimmermann, N. E., McVicar, T. R., Vergopolan, N., Berg, A., & Wood, E. F. (2018). Present and future Köppen-Geiger climate classification maps at 1-km resolution. Scientific data, 5, 180214.
+
+[34] Aghniaey, S., Lawrence, T. M., Sharpton, T. N., Douglass, S. P., Oliver, T., & Sutter, M. (2019). Thermal comfort evaluation in campus classrooms during room temperature adjustment corresponding to demand response. Building and Environment, 148, 488–497.
+
+[35] Fang, Z., Xu, X., Zhou, X., Deng, S., Wu, H., Liu, J., & Lin, Z. (2019). Investigation into the thermal comfort of university students conducting outdoor training. Building and Environment, 35
+---
+# Environment, 149, 26–38.
+
+[36] Fong, C. S., Aghamohammadi, N., Ramakreshnan, L., Sulaiman, N. M., & Mohammadi, P. (2019). Holistic Recommendations for Future Outdoor Thermal Comfort Assessment in Tropical Southeast Asia: A Critical Appraisal. Sustainable Cities and Society, 101428.
+
+[37] ISO 7243:2017, ergonomics of the thermal environment – assessment of heat stress using the WBGT (wet bulb globe temperature) index.
+
+[38] Wang, J., Meng, Q., Tan, K., Zhang, L., & Zhang, Y. (2018). Experimental investigation on the influence of evaporative cooling of permeable pavements on outdoor thermal environment. Building and Environment, 140, 184–193.
+
+[39] Perini, K., & Magliocco, A. (2012). The integration of vegetation in architecture, vertical and horizontal greened surfaces. International Journal of Biology, 4(2), 79–91.
+
+[40] Mirsadeghi, M., Cóstola, D., Blocken, B., & Hensen, J. L. M. (2013). Review of external convective heat transfer coefficient models in building energy simulation programs: Implementation and uncertainty. Applied Thermal Engineering, 56(1), 134–151.
+
+[41] Sailor, D. J. (2008). A green roof model for building energy simulation programs. Energy and buildings, 40(8), 1466–1478.
+
+[42] Mengel, K., Kirkby, E. A. (2012). Principles of plant nutrition. Springer Netherlands, 230–232.
+
+[43] Susorova, I., Azimi, P., & Stephens, B. (2014). The effects of climbing vegetation on the local microclimate, thermal performance, and air infiltration of four building facade orientations. Building and Environment, 76, 113–124.
+
+[44] Evola, G., Marletta, L., & Sicurella, F. (2013). A methodology for investigating the effectiveness of PCM wallboards for summer thermal comfort in buildings. Building and Environment, 59, 517–527.
+
+[45] Lin, C. H., Lin, T. P., & Hwang, R. L. (2013). Thermal comfort for urban parks in subtropics: understanding visitor’s perceptions, behavior and attendance. Advances in Meteorology, 2013,1–8.
+
+[46] Siregar, B., Fadli, F., Andayani, U., Harahap, L. A., & Fahmi, F. (2017). Monitoring of Solar Radiation Intensity using Wireless Sensor Network for Plant Growing. In Journal of Physics: Conference Series, 801(1),1-8.
+---
+# View publication stats
+
+|1|Yueshun, H., & Wei, Z. (2013). The research on wireless sensor network for landslide monitoring. International Journal on Smart Sensing & Intelligent Systems, 6(3), 867-887.|
+|---|---|
+|2|Chapman, L., Muller, C. L., Young, D. T., Warren, E. L., Grimmond, C. S. B., Cai, X. M., & Ferranti, E. J. (2015). The Birmingham urban climate laboratory: An open meteorological test bed and challenges of the Smart City. Bulletin of the American Meteorological Society, 96(9), 1545-1560.|
+|3|Gaitani, N., Burud, I., Thiis, T., & Santamouris, M. (2017). High-resolution spectral mapping of urban thermal properties with Unmanned Aerial Vehicles. Building and Environment, 121, 215-224.|
+|4|Perini, K., & Ottelé, M. (2014). Designing green façades and living wall systems for sustainable constructions. International Journal of Design & Nature and Ecodynamics, 9(1), 31-46.|
+|5|Ling, T. Y., & Chiang, Y. C. (2018). Well-being, health and urban coherence-advancing vertical greening approach toward resilience: A design practice consideration. Journal of cleaner production, 182, 187-197.|
+|6|Tsang, S. W., & Jim, C. Y. (2016). Applying artificial intelligence modeling to optimize green roof irrigation. Energy and Buildings, 127, 360-369.|
+|7|Bustami, R. A., Belusko, M., Ward, J., & Beecham, S. (2018). Vertical greenery systems: A systematic review of research trends. Building and Environment.|
+|8|Bianchini, F., & Hewage, K. (2012). How “green” are the green roofs? Lifecycle analysis of green roof materials. Building and environment, 48, 57-65.|

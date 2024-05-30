@@ -1,0 +1,577 @@
+# Green Façade Effects on Thermal Environment in Transitional Space: Field Measurement Studies and Computational Fluid Dynamics Simulations
+
+Article in Sustainability · October 2019
+
+DOI: 10.3390/su11205691
+
+|CITATIONS|READS|
+|---|---|
+|28|834|
+
+4 authors:
+
+|Hankun Lin|Yiqiang Xiao|
+|---|---|
+|GuangDong University of Technology|South China University of Technology|
+|16 PUBLICATIONS 65 CITATIONS|34 PUBLICATIONS 254 CITATIONS|
+
+|Florian Musso|Yao Lu|
+|---|---|
+|Technische Universität München|Technische Universität München|
+|29 PUBLICATIONS 285 CITATIONS|13 PUBLICATIONS 48 CITATIONS|
+
+All content following this page was uploaded by Hankun Lin on 15 October 2019.
+
+The user has requested enhancement of the downloaded file.
+---
+# sustainability
+
+Article
+
+Green Façade Effects on Thermal Environment in Transitional Space: Field Measurement Studies and Computational Fluid Dynamics Simulations
+
+Hankun Lin1 , Yiqiang Xiao 1, Florian Musso 2 and Yao Lu 1,*
+
+1    State Key Laboratory of Subtropical Building Science, School of Architecture, South China University of Technology, Guangzhou 510000, China; hklam@foxmail.com (H.L.); yqxiao@scut.edu.cn (Y.X.)
+
+2    Lehrstuhl für Baukonstruktion und Baustoffkunde, Fakultät für Architektur, Technische Universität München, 80333 München, Germany; musso@tum.de
+
+*    Correspondence: luyao@scut.edu.cn
+
+Received: 16 September 2019; Accepted: 11 October 2019; Published: 15 October 2019
+
+Abstract: High-density urban development areas have several problems associated with them, such as the formation of urban heat islands, traffic noise, and air pollution. To minimize these problems, the green façades (GFs), which are used to guide climbing plants to grow vertically on building facade, are focused on by researchers and architects. This study focuses on GF application strategies and their optimizations for thermal comfort in a transitional space in a hot-humid climate. First, field measurements were collected from GF projects located in Guangzhou, China, in summer 2017. Second, a simulation method using computational fluid dynamics (CFD) was used to investigate the thermal effects of the GF’s foliage. Finally, seven GF typologies and one unshaded comparison model were used for simulations in three scenarios with south, east, and west orientations and compared to evaluate the effects of GFs on the thermal environment of the transitional space. The results of field measurements reveal that the GF reduced average Physiologically Equivalent Temperature (PET) by 2.54◦C, and that of CFD simulations reveal that three typologies of GFs are more effective in regulating the thermal environment in the summer. The results of this research provide support for further studies on the thermal effectiveness and design options of GFs for human comfort.
+
+Keywords: green façade; thermal comfort; transitional space; CFD simulation; hot-humid climate
+
+# 1. Introduction
+
+The development of high-density urban areas is accompanied by a number of problems that are increasingly harmful to human health and comfort, including the existence of urban heat islands (UHIs), increased traffic noise, and air pollution. One of the strategies to relieve the negative influences of UHIs is urban greenery infrastructure (UGI), which includes the strategies of trees, green land, green roofs, and green façades [1]. However, in some high-density urban areas, green land is not sufficient. In response to the lack of land in some densely built-up areas, the vertical green strategy has been introduced to provide more green space and dissipate the thermal stress under the extreme artificial environment. As one of the vertical greenery systems (VGSs), the application of green walls (GWs) has the potential to optimize the energy consumption of buildings [ 2] and increase outdoor thermal comfort [3]. By definition, GWs are separated into two systems: living wall systems (LWSs) and green façades (GFs) [ 4 ]. The former system is mainly constructed using four parts: a structure system, module substrates or plant felts containing the roots of shrubs, a controllable irrigation system, and a drainage system. Comparably, the GF is a much simpler system supporting climbing plants to grow up on a
+
+Sustainability 2019, 11, 5691; doi:10.3390/su11205691 www.mdpi.com/journal/sustainability
+---
+# Sustainability 2019, 11, 5691
+
+up on a building façade (Figure 1). The climbing plants could be planted on earth directly or in soil building façade (Figure 1). The climbing plants could be planted on earth directly or in soil containers containers at different heights of a building and their growth guided by simple net frames or linear at different heights of a building and their growth guided by simple net frames or linear ropes. ropes. Additionally, a controllable foliage distribution with the supporting structure provides an Additionally, a controllable foliage distribution with the supporting structure provides an opportunity opportunity to customize the GF to the requirements of the building layout and façade construction. to customize the GF to the requirements of the building layout and façade construction. In applications, In applications, the direct GFs such as the veneer plants could grow directly on building walls and the direct GFs such as the veneer plants could grow directly on building walls and may cause the wall may cause the wall surface deterioration and even structural damage in the long term [5,6], surface deterioration and even structural damage in the long term [ 5,6 ], respectively; the indirect GFs respectively; the indirect GFs that form with the twining plants mainly rely on the guiding structures that form with the twining plants mainly rely on the guiding structures separated from the walls at a separated from the walls at a distance of 0.4 m [7]. Lightweight supporting and guiding structures distance of 0.4 m [7]. Lightweight supporting and guiding structures are recommended to integrate are recommended to integrate with the building façade system, which could be placed strategically with the building façade system, which could be placed strategically following the layout of a building, following the layout of a building, provide a space for plant maintenance, bear the wind load, and provide a space for plant maintenance, bear the wind load, and reduce the floor area occupation [8]. reduce the floor area occupation [8]. Thanks to the controllable leaves and stems and the growing Thanks to the controllable leaves and stems and the growing mechanism of the climbing plants, the GFs mechanism of the climbing plants, the GFs could be integrated with the shading units on the building could be integrated with the shading units on the building façades, such as trellis or mesh wire units, façades, such as trellis or mesh wire units, perforated plate units, tensile cable systems, etc. [9]. perforated plate units, tensile cable systems, etc. [ 9]. However, more integrations with the GFs and the However, more integrations with the GFs and the existing façade systems still need to be explored. existing façade systems still need to be explored. Comparing the effects on thermal environment, although optimization of the wall insulation Comparing the effects on thermal environment, although optimization of the wall insulation and thermal environment using a GF is not as efficient as that achieved with an LWS, low costs and and thermal environment using a GF is not as efficient as that achieved with an LWS, low costs and the requirement of simple maintenance methods are the realized benefits of a GF [10]. Currently, an the requirement of simple maintenance methods are the realized benefits of a GF [ 10]. Currently, increasing number of architectural designs combine climbing plants with façade components for an increasing number of architectural designs combine climbing plants with façade components for reasons of aesthetics and human thermal comfort optimization. Compared to the application of reasons of aesthetics and human thermal comfort optimization. Compared to the application of installing GFs on bare walls, strategies of combining GFs with transitional or semi-open spaces still installing GFs on bare walls, strategies of combining GFs with transitional or semi-open spaces still need to be evaluated. need to be evaluated.
+
+# Living wall systems
+
+a1. Soil container system
+a2. Substrate module system
+Felt system
+
+# Green facades
+
+Direct green facade
+b2. Indirect green facade
+b3. Indirect green facade at a transition space
+
+Figure 1. Typologies and samples of Living Wall Systems (LWSs) and Green Facades (GFs).
+
+In previous studies of GW effects on thermal environments, most research on different climates has focused on optimization abilities in terms of building energy performance and outdoor thermal environment. Taking the surface temperature of a wall shaded by a GW as an example, Wong et al. found that GF reduced the wall surface temperature (Ts) up to 2.45◦C in summer [ 11] while Sunakorn and Yimprayoon found that Ts were reduced by an average of 3.63◦C and a maximum of 9.93 ◦C in spring in a tropical rainforest climate (Köppen climate classification, KCC [ 12 ]: Af) [ 13 ]. In a humid subtropical climate (KCC: Cfa), Jim found that Ts was reduced by 5◦C in summer [ 14]. In a temperate oceanic climate (KCC: Cfb), Kontoleon and Eumorfopoulou found that Ts was reduced by 16.85 °C
+---
+# Sustainability 2019, 11, 5691
+
+temperate oceanic climate (KCC: Cfb), Kontoleon and Eumorfopoulou found that Ts was reduced by 16.85◦C (west, W), 10.53 ◦C (east, E), 6.46 ◦C (south, S), and 1.73 ◦C (north, N) [ 15 ]. Coma et al. found that Ts was reduced by an average of 13.9◦C (W), 13.8 ◦C (E), and 10.7 ◦C (S) in summer [ 16].
+
+The potential for building HVAC (heating, ventilation, and air-conditioning) energy consumption reduction is demonstrated by the reduction of Ts on building walls. Meanwhile, with the effects of evapotranspiration and the shading effect of plants, a GW could reduce the surrounding outdoor temperature as well. Perini et al. found that the average temperature of the air cavity, inner leaf, and 0.1 m in front of a GF was reduced by 0.34◦C, 0.17 ◦C, and 0.13 ◦C, respectively, compared to the point in front of a bare wall, and there was no difference found at a distance higher than 1.0 m in front of the GF [17]. De Jesus et al. investigated two LWSs in situ and found a maximum outdoor temperature difference of 1.5 ◦C compared at distances of 0.5 and 4.5 m [ 3 ]. Koyama et al. showed that room temperature was reduced by 0.15◦C and 4.0 ◦C due to transpiration and shading cooling effects, respectively [18]. The reasons for these differences may be series factors, such as climate zones, measurement seasons, the weather situation, the properties of the climbing plants (e.g., different plant species and different shading ratios), and the leaf-area index. In the analysis of the performance of GFs on a thermal environment, some effects have been discussed at a much more detailed level. The tree canopy performs a shading effect that can reduce global solar irradiation via the functions of transmittance, absorption, and reflectance [13 , 19]. The evapotranspiration of both the plants and substrates of GFs provides an evaporative cooling effect and increases the air humidity [ 20 –22 ]. Šuklje, Medved, and Arkar also provided a mathematical model for evaluating the cooling effect of indirect GFs for computation-fluid-dynamics (CFD) simulation based on field measurements [23]. The leaf layer distributed vertically of climbing plants could influence the air wind flow velocity due to the dragging effect [14 ,20 ,24 ]. In past studies, the performance and effects of GFs on the thermal environment have been investigated widely for building energy consumption and urban microclimate research.
+
+For the purpose of reducing solar radiation on a wall, the layout of a GW normally covers the wall for a short distance of 0.2–0.8 m to satisfy the requirements of construction and to minimize the occupation of the building floor plan area. However, increasingly, more applications of GFs are set on the boundaries of building balconies, corridors, and even in some open spaces around the buildings, which are defined as transitional spaces or semi-open spaces—that is, the spaces between indoor and outdoor spaces, including corridors, arcades, passageways, and atriums [ 25 , 26]. This trend not only provides an energy-efficient building but also creates a much more comfortable outdoor environment for human beings. In terms of climate-adaptive design, the transitional space shows a potential to optimize the thermal environment, protect against rain and direct solar radiation, and create openness for wind flow, providing a space for habitants to sit, stand, relax, and communicate during high heat days and the rainy season. In this study, the application of a GF that shades the transitional space is understood as an adaptive and integrated strategy for thermal environment optimization. Based on the layouts of GFs in architectural design projects, some typologies of GFs are defined and compared to discuss a better application strategy for GFs.
+
+This study was undertaken in a hot-humid climate area in the summer, presenting high air temperatures and humidity, which influence human thermal comfort. Field measurements were taken in Guangzhou, Guangdong Province, China. Guangzhou is in southern China (23◦08′N, 113◦16E);′ in summer, the average high temperature is 32.3◦C, and the average relative humidity is 83% [ 27]. It belongs to the humid subtropical climate, according to the KCC [12]. As a response to the local climate, shading building façades and improving natural ventilation are two important building design strategies that can reduce solar radiation, improve human comfort, and reduce the energy requirements of cooling systems [28 ,29 ]. Considering the local climate described above, some researchers have evaluated human thermal comfort in the transitional space. Using a questionnaire survey in Guangdong Province, China, Zhang, Zhang, and Ding found that a neutral temperature of 26◦C and non-neutral temperatures of 20–32◦C in a climate chamber were considered comfortable [ 30 ]. Jitkhajornwanich
+---
+# Methodology
+
+# Setting of Field Measurements
+
+Two field measurements were set up during summer days in Guangzhou. Measurement A, which was taken on a high-rise building with indirect GFs on the east and south façades and lasted from 2 August to 8 August 2017, has been reported by the authors (Figure 2) [33]. It was taken using HOBO data loggers (Table 1), which were protected by solar radiation and rain shield and set stably in an outdoor environment and in the GF-shaded area for comparison.
+
+Measurement B was taken in parallel in an apartment building with an external corridor shaded with indirect GFs during the daytime as well (0830–1800, Local Standard Time, LST) on 5 August and 7 August 2017. For measurement B, considering that some instruments and probes were not rain-proof, the measurement was run in parallel in the second period (sunny days) (Table 1). The test building was four stories high with a southern-facing external corridor (1.8 m wide) on the second floor (Figure 3). Part of the building façade has already been covered with climbing plants in the last
+
+# Table 1. Accuracy, range, and measurement frequency of the instruments and probes.
+
+|Instruments and Probes|Accuracy|Measuring Range|Measurement Frequency|
+|---|---|---|---|
+|(1) HOBO data loggers (U23 Pro v2) (in measurement A & B)|Ta: ±0.21 °C RH: ±2.5%|Ta: 0–50 °C RH: 10–90%|5 min|
+|(2) HD32.3 with probes (in measurement B): 2a. TP3276.2 Globe thermometer probe (Ø = 50 mm)|Tg: 1/3 DIN|Tg: -10–100 °C|5 min|
+|2b. AP3203 Omnidirectional hot wire probe|Va: ±0.05 m s-1 (1–5 m s-1), ±0.15 m s-1 (0–1 m s-1)|Va: 0–5 m s-1|5 min|
+---
+Sustainability 2019, 11, 5691
+
+7 August 2017. For measurement B, considering that some instruments and probes were not rain-proof, the measurement was run in parallel in the second period (sunny days) (Table 1). The test building was four stories high with a southern-facing external corridor (1.8 m wide) on the second floor (Figure 3).
+
+Sustainability 2019, 11, x FOR PEER REVIEW
+
+Part of the building façade has already been covered with climbing plants in the last four years. Test points were separately set at the outdoor environment (point A), in front of the GF at a distance of four years. Test points were separately set at the outdoor environment (point A), in front of the GF at 0.3 m (point B), behind the GF at a distance of 0.5 m and at a height of 1.1 m (point C), and in an area a distance of 0.3 m (point B), behind the GF at a distance of 0.5 m and at a height of 1.1 m (point C), that did not have shaded facilities at a distance of 0.5 m to the corridor boundary at the same height and in an area that did not have shaded facilities at a distance of 0.5 m to the corridor boundary at (point D). During the field measurement period, windows and doors on the side of the corridor were the same height (point D). Thus, the test data only reflected the thermal environment of the corridor. Indices of the globe temperature (Tg), air temperature (Ta), relative humidity (RH), and wind-flow velocity (Va) were recorded and then the mean radiant temperature (MRT) calculated according to the ISO-7726 standard [34]:
+
+MRT = (Tg + 273)0.25·108(Tg + 273)4 + μg∙0.5∙(Tg - Ta)41·(Tg - Ta) - 273, - 273,
+where D = 0.05 m, diameter of pe globe; μg = 0.95, pe emissivity of pe globe wipout dimension.
+
+For the human thermal comfort analysis, the index of Physiologically Equivalent Temperature (PET) [35] was calculated with input parameters that were recorded using Rayman software (Rayman Pro version 2.1, Meteorological Institute, University of Freiburg) [36].
+
+Analysis of the foliage of the climbing plant, which is based on photo-pixel analysis using Photoshop [37,38], was conducted and revealed that the transmittance of the GF foliage is 18.04%. The thickness of the foliage was measured on site, and the average value estimated as 0.3 m.
+
+Figure 3. Apartment building of Measurement B: (a) detail scale of the corridor section and the diagram of the thermal effects of the GF; (b) site-plan of the test building; (c) location of the test points; (d,e) pixel analysis of the foliage of the GF.
+
+2.2. Base Settings of CFD Simulation
+
+In this study, a CFD simulation method introduced by Gromke et al. that simulates avenue trees, green roofs, and green walls at an urban scale [39] was used to study the effects of different GF typologies at the building façade scale. In this process, field measurements were first collected from the GF project to validate the CFD simulation method. Then, when the CFD simulation and key settings of the GF model were validated, different kinds of GF typologies were simulated and compared.
+---
+# Base Settings of CFD Simulation
+
+In this study, a CFD simulation method introduced by Gromke et al. that simulates avenue trees, green roofs, and green walls at an urban scale [39] was used to study the effects of different GF typologies at the building façade scale. In this process, field measurements were first collected from the GF project to validate the CFD simulation method. Then, when the CFD simulation and key settings of the GF model were validated, different kinds of GF typologies were simulated and compared.
+
+ANSYS Fluent 16.0 (2014 ANSYS, Inc.) was employed as the CFD simulation software to solve the models. The solved models consisted of the three-dimensional steady-state Reynolds-averaged Navier–Stokes (RANS) equations with the Boussinesq approximation for thermal effects and the realizable k-ε turbulence model [40]. The discrete ordinates (DO) model including solar ray-tracing calculations were employed for the solar irradiation and radiative transfer simulations [41]. The mean flow, turbulence, and energy equations were discretized using second-order schemes, and the SIMPLEC scheme was used for pressure–velocity coupling. The simulation convergence criteria of the continuity, velocity, energy, and DO are 10−6.
+
+Two series of models were tested in this research. The first was a validation model of the building measurement data (Model M). Model M was defined as the field measurement building, the scale of which was introduced above. The second model was a 4F standard test model used to study the effects of GFs (Figure 4). The size was defined as that of the field measurement building (8 × 18 × 16 m, W × L × H) with a wider corridor of 3 m width in order to capture the difference in the thermal environment in the depth of the corridor. As a standard model, its façade on the boundary of the corridor will be defined as different typologies of GFs later. Furthermore, to reduce the computational cells of the model as well as the computing time, a symmetrical model was applied for the standard model due to the geometric features of the single-corridor building used in this study.
+
+|Scale and boundary settings of the study models:| |
+|---|---|
+|Model M|the standard test model of GF|
+|Figure 4. (a1, a2)|(b1, b2)|
+
+The total computational domain of Model M was 325 m × 460 m × 100 m (W × L × H), and, for the standard test model, the domain was 152 m × 108 m × 96 m. The grid sensitivity of the model was tested first. As the thickness of the plant foliage of the GF in the field measurements is approximately 0.2–0.4 m and the height of the GF is 4 m, to capture the characteristics of the geometry in both series models, the minimum scale of the grid was tested at 0.05, 0.1, 0.2, and 0.4 m. The results reveal that the difference between Ta and Va for the test points between the different grid scales was lower than
+---
+The total computational domain of Model M was 325 m × 460 m×100 m (W × L × H), and, for the standard test model, the domain was 152 m × 108 m × 96 m. The grid sensitivity of the model was tested first. As the thickness of the plant foliage of the GF in the field measurements is approximately 0.2–0.4 m and the height of the GF is 4 m, to capture the characteristics of the geometry in both series models, the minimum scale of the grid was tested at 0.05, 0.1, 0.2, and 0.4 m. The results reveal that the difference between Ta and Va for the test points between the different grid scales was lower than 3%. Thus, considering the computer performance and computing time, the model grid was generated using a hex grid with a size ranging from 0.1 m (the studied building located in the center of the computational domain) to 1.0 m (the boundary of the computational domain). The total cell number of Model M was 15,374,610 and that of the standard test model 3,087,960 (Figure 5).
+
+Figure 5. Detail of the test cells in the compute domains in the study models: (a1) center cells of Model M; (a2) compute domain of Model M; (b1) center cells of the standard test model; (b2) compute domain of the standard test model.
+
+For setting the model boundary, both the location and date of the model were set to be the same as the field measurement. The solar irradiation was calculated as that during fair weather in the software. The temperature of the wind–inlet boundary in Model M followed the hourly average temperature of the outdoor environment obtained from the field measurements, and, for the standard test model, it was set to 32°C. For wind-flow velocity, vertical profiles were defined at the wind–inlet boundary.
+
+The velocity (Va), turbulence kinetic energy (k), and turbulence dissipation rate (ε) of the neutrally stratified atmospheric boundary layer were employed according to [42]:
+
+|Va(z) = u∗ 𝑉𝑎ሺ𝑧ሻ =k ௞lnz+z0௨ ∗ln z0బ ௭ା௭బ,,௭|(2)|
+|---|---|
+|k(z) = C𝑘ሺ𝑧ሻ =ඥ஼√u∗uೠ,2௨ ∗,మ|(3)|
+|ε(z) =𝜀ሺ𝑧ሻ = z + zబ ),,k( ௞ሺ௭ା௭ሻ|(4)|
+
+where z is the vertical position above ground; z0  = 0.5 m is the aerodynamic roughness length representative of the terrain windward of the computational domain; k = 0.42 is the van Karman constant; Cu  = 0.09 [39]; and u* is the friction velocity. Va was set according to the field measured hourly average wind flow velocity data in Model M and which was set as 1.0 m s at a height of 10 m in the standard test model.
+
+The other boundaries of symmetry, outlet airflow, which was treated as an outflow condition, and the ground boundary, were assigned as shown in Figure 4, respectively. The parameters of the building walls and the ground were defined as shown in Table 2 according to previous studies [24,41,43].
+---
+# The other boundaries of symmetry, outlet airflow, which was treated as an outflow condition, and the ground boundary, were assigned as shown in Figure 4, respectively. The parameters of the building walls and the ground were defined as shown in Table 2 according to previous studies [24,41,43].
+
+|Property|Fluid|Building Walls|Ground|Green Facade Foliage|
+|---|---|---|---|---|
+|Materials|Air|Concrete|Asphalt|Porous materials|
+|Density (kg m−3)|1.225|2000.3|160010|7000.3|
+|Specific heat capacity (J kg−1 K−1)|1006.4|3000.8|3000.8|0.173|
+|Thermal conductivity (W m K−1)|430.0242|9000.8|3000.8|0.173|
+|Viscosity|1.7894 × 10−5|-|-|-|
+|Absorption coefficient|0.19|0.9|0.9|0.75|
+|Scattering coefficient|0|0|-10|0|
+|Temperature (Emissivity◦C)|0.9|0.720|0.9510|0.983|
+|Roughness height ks|-|0|0.05|-|
+|Roughness constant Cs|-|0|0.5|-|
+
+# Definition of GF in the CFD Model
+
+To simulate the effects of wind dragging and evapotranspiration cooling caused by the plant foliage, a definition of porous zone cells was imported to the models [39 ,44 ]. As a simplification of the complex geometry including leaves, stems, and supporting ropes, an equivalent porous medium was considered as having the same momentum, thermal effects, convective heat flux, and radiative effects as the real plants [45 ]. The thickness of the porous zone cells was set at 0.3 m following the average foliage layer thickness of the climbing plants obtained from field measurements. Porosity was estimated as 98.3% according to the ratio of the foliage estimated in the field measurements, which is similar to the result of 98.5% estimated by Šuklje, Medved, and Arkar [ 24]. According to Gromke et al. [39], terms were added to the transport equations of momentum, turbulence kinetic energy, and turbulence dissipation rate at computational cells of the foliage (as cited in [ 46 , 47 ]), and is represented as:
+
+Sui = −ρCdLADUVa ,i
+
+Sk = ρCdLAD(βpVa3 − βdVak) ,
+
+S = ρCdLADε k(Cε4βpVa3 − Cε5βdVak) ,
+
+where % is the density of air (1.225 kg m−3); Cd = 0.2 is the leaf drag coefficient; LAD = 1 m2 m−3 is the leaf area density (LAD = LAI/∆l); LAI = 0.625 m2 m−2 is the leaf area index [48 ]; ∆l = 0.3 m is the thickness of the foliage layer in the study case; Ui is the velocity component of direction I; Va is the velocity magnitude; βp = 1.0 is the fraction of mean kinetic energy; βd = 5.1 is the coefficient that accounts for short-circuiting of the eddy cascade; k is the turbulence kinetic energy; and Cε4 = Cε5 = 0.9 are the empirical coefficients [39].
+
+The effect of transpiration cooling of the foliage was discussed and validated in the Ansys Fluent 6.0 [39 ]. However, the foliage of plants is different in different cases, and the cooling power (Pc) should be validated in different simulations. According to Gromke et al. and Susorova et al. [ 39 , 48], the cooling power is estimated as Pc = 250 W m−3 for courtyard trees with LAD = 1.0 m2 m−3. In this simulation, the thickness of the foliage is estimated as 0.3 m for a single layer according to the field measurements, so the LAD is estimated as 2.0 m2 m−3 and the Pc is estimated as 500 W m−3 as well.
+---
+# Sustainability 2019, 11, 5691
+
+2.4. Physical Parameters Calculated in the CFD Model
+
+Considering the simulation model, the MRT could be calculated from the surrounding surface, according to [34]:
+
+MRT = (T14Fp−1 + T24Fp−2 + TNFp−N) 14 .4 (8)
+
+In the CFD simulation with ANSYS Fluent 16.0, the Ta, Va, and radiation temperature (Tr) can be calculated to evaluate the thermal comfort in the transitional space. The Tr in the model affected by the surrounding surface is defined as [49]:
+
+Tr = T∞ 4σ = ∫4πT∞IdΩ (9)
+
+where σ is the Stefan–Boltzmann constant (σ = 5.67 × 10−8 W m2 K−4), I is the radiation intensity, Ω is the solid angle, and d is the distance between a test point and the surface.
+
+Considering the balance of radiation and convection heat-transfer modes, the comfort temperature (Tc) is introduced to calculate the occupant’s feeling of thermal comfort in the unique zone defined in the model of transitional space, and the comfort temperature could be calculated according to [34,50,51]:
+
+Tc = Tr = Ta10Va T 1 + √ଵ଴௏௔..+ೝା்ೌ ଵା√ଵ଴௏௔ 10Va (10)
+
+2.5. GF Typologies Models
+
+Because this study is focused on the application strategy of indirect GFs combined with transitional space, building cases were surveyed, and the forms and layouts of the GFs were collected and classified into different typologies. As the growth method of twisting the climbing plants could be controlled and shaped into different forms, the position and form of the GFs were modeled following the cases that were investigated before. To simplify the models, they were defined basically as vertical and horizontal forms with different layouts of their positions, scales, and densities. Construction components of the plant pots, support guild structures, irrigation, and drainage pipes were ignored in the models as well because these always intertwine and combine with the plants. Thus, seven models of different forms of GFs and one comparison model without a GF were tested in the study. Furthermore, different orientations, including south, west, and east, were studied based on the models.
+
+|Scenarios of GF applications|GF model series|
+|---|---|
+|Scenario|Vertical forms of GF|VI-Detail|V2-Detail|V3-Detail|
+|Scenario|Horizontal forms of GF|H1-Detail|H2-Detail|H3-Detail|
+|Scenario|Full shaded GF and unshaded corridor|F1-Detail|Orientations (S, W, E)|
+
+Figure 6. Scenarios of GF applications and the definition of GF model series.
+---
+# Results
+
+# Results
+
+# Field Measurement Results
+
+# Field Measurement Results
+
+# Field Measurement A
+
+As Measurement A results are shown in Figure 7, the results are only briefly introduced in this study to provide a comparison to the results of Measurement B in the same period. The results show that the average air temperature of the shaded area was reduced by 1.0 °C (E) and 1.2 °C (W) in the daytime (6:00 a.m.–6:00 p.m. LST), while the average air temperature difference was only between 0.0 °C and 0.1 °C in the nighttime (6:00 p.m.–6:00 a.m. LST). Furthermore, Measurement A could be divided into two periods: the rainy period from 2 August to 3 August and the sunny period from 4 August to 8 August. In the rainy period, the average air temperature of the shaded area was reduced by 0.1 °C (E) and 0.4 °C (S), respectively, in the sunny period, and the average air temperature by 0.6 °C (E) and 0.7 °C (S). The GFs have much more significant effects on the thermal environment on sunny days.
+
+| |East|South|Outdoor Environment|
+|---|---|---|---|
+|Temperature|38.0|90.0|80.0|
+|Relative Humidity|22.0|70.0|40.0|
+
+# Field Measurement B
+
+The results of Measurement B are shown in Figure 8 and Appendix 1. During the field measurement period, the Ta results reveal that the thermal environment of the corridor area was better than that of the outdoor and unshaded environment. The average Ta of the shaded area (point D) was reduced by 2.46 °C (Day 1, D1) and 0.62 °C (Day 2, D2) compared to the outdoor environment (point A), and reduced by 0.53 °C (D1) and increased by 0.06 °C (D2) compared to the unshaded area (point C). The average RH of point D increased by 1.00% (D1) and 1.22% (D2) compared to point C. The Va values for both days were at a low level and not higher than 2.5 m s−1. The average Va of the shaded area was reduced by 0.81 m s−1 (D1) and 0.39 m s−1 (D2) compared to the outdoor environment, and by 0.18 m s−1 (D1) and 0.00 m s−1 (D2) compared to the unshaded area. The results of Tg and MRT also show a higher reduction in the shaded compared to the unshaded area on D1. The average MRT in the shaded area was reduced by 4.59 °C (D1) and 4.81 °C (D2) compared to the outdoor environment and by 2.74 °C (D1) and 0.58 °C (D2) compared to the unshaded area. Finally, average PET was reduced by
+---
+# Figure 8. Results of Measurement B:
+
+|(a) data of temperature|(b) data of relative humidity|
+|---|---|
+|(c) data of wind velocity|(d) data of globe temperature|
+|(e) data of Mean Radiant Temperature (MRT)|(f) comparison on temperature, globe temperature, MRT, and Physiologically Equivalent Temperature (PET) at point B and point D|
+|(g) data of PET overlapping with the PET criteria|(h) criteria of PET|
+---
+# A comparison of test points in front of and behind the GF also shows the thermal resistance of the GF.
+
+The results show that the reduction of average Ta was 1.21°C (D1) and 0.10 °C (D2), and that of average MRT was 8.59°C (D1) and 6.34 °C (D2). The average Va was reduced by 0.13 m s−1 (D1) and 0.02 m s−1 (D2). It is worth noting that the average Ta of the point in front of the GF was also reduced by 1.25°C (D1) and 0.52 °C (D2) compared to the outdoor environment, revealing the potential of the optimization on the outdoor thermal environment.
+
+# Validation of Simulation
+
+Validation was undertaken using the data of Measurement B on August 5 and test points were set at the same positions as the field measurements. The hourly air temperature and wind-flow velocity results were compared (Figure 9 and Table 3). The absolute error of air temperature between the simulation and field measurements was in the range 0.03°C–1.86 °C (relative error 0.1–5.1%) and that of wind-flow velocity was in the range 0.00–0.15 m s−1 (relative error 0.6–24.0%). These results prove the validity of the simulation. Therefore, the definitions and settings of the GF model were applied in the GF case studies.
+
+Figure 9. Comparison on results of the field measurement and Computational Fluid Dynamics (CFD) simulation: (a) comparison on temperature; (b) comparison on wind velocity.
+
+|Time|Outdoor Ta Absolute Error (°C)|Front Ta Absolute Error (Shaded)|Front Ta Relative Error (%)|Shaded Unshaded|Outdoor Ta Relative Error (%)|Front Ta Relative Error (%)|Shaded Unshaded|
+|---|---|---|---|---|---|---|---|
+|9:00|0.82|0.42|0.07|4.3%|2.8%|1.4%|0.2%|
+|11:00|1.86|0.12|0.78|0.92|5.6%|0.4%|2.6%|3.0%|
+|12:00|1.68|0.34|1.01|1.05|5.0%|1.0%|3.2%|3.3%|
+|13:00|1.68|1.68|0.44|0.91|0.75|4.9%|1.3%|2.9%|2.3%|
+|14:00|1.84|0.96|0.16|0.88|0.59|5.1%|0.4%|2.7%|1.7%|
+|15:00|0.96|0.03|0.16|0.07|0.23|2.7%|0.5%|0.2%|0.7%|
+|16:00|0.13|0.56|0.48|0.1%|0.4%|1.7%|1.4%|
+|17:00|0.03|0.69|0.13|0.71|0.56|0.25|0.83|1.9%|0.4%|2.1%|1.7%|0.7%|1.4%|2.5%|
+|18:00|0.69|0.41|1.69|0.25|0.57|0.83|1.50|1.9%|1.2%|2.1%|5.1%|0.7%|1.7%|2.5%|4.5%|
+
+|Time|Outdoor Va Absolute Error (m s−1)|Front Va Absolute Error (Shaded)|Front Va Relative Error (%)|Shaded Unshaded|Outdoor Va Relative Error (%)|Front Va Relative Error (%)|Shaded Unshaded|
+|---|---|---|---|---|---|---|---|
+|9:00|0.12|0.15|0.00|0.00|0.01|0.002|1.7%|18.5%|0.01%|0.00%|0.02%|0.06%|0.06%|21.7%|3.6%|1.2%|19.0%|14.6%|0.8%|17.7%|0.8%|
+|10:00|0.15|0.01|0.00|0.04|0.02|0.03|0.04|1.1%|1.2%|9.2%|14.6%|15.7%|17.7%|6.6%|
+|11:00|0.01|0.03|0.04|0.07|0.03|0.03|0.04|1.1%|2.8%|9.2%|15.7%|15.7%|16.2%|6.6%|7.5%|
+|12:00|0.03|0.05|0.01|0.07|0.02|0.03|0.04|0.01|2.8%|0.6%|15.7%|5.0%|16.2%|24.0%|7.5%|2.7%|
+|13:00|0.01|0.06|0.02|0.09|0.04|0.02|0.01|0.14|0.6%|4.2%|5.0%|23.0%|24.0%|12.7%|2.7%|21.0%|
+|14:00|0.05|0.05|0.09|0.02|0.02|0.02|0.14|0.01|4.2%|5.7%|23.0%|5.4%|12.7%|13.4%|21.0%|5.3%|
+|15:00|0.06|0.10|0.02|0.00|0.02|0.01|0.00|11.6%|5.4%|1.3%|13.4%|9.3%|5.3%|1.5%|
+|16:00|0.05|0.02|0.04|0.02|0.04|0.02|0.04|5.7%|4.1%|6.1%|18.3%|10.1%|
+|17:00|0.10|0.00|0.01|0.00|0.01|0.00|0.01|11.6%|1.3%|9.3%|1.5%|
+---
+# Results of GF Typologies
+
+Seven cases of GFs were tested comparing with an unshaded corridor case. The data output surface was set at a height of 1.1 m in the corridor (Table 4, Figures 10 and 11). The results of different cases in three orientations exhibit the same trend but different ranges. Average Ta, Tr, and Tc values are highest on the west side and lowest on the east side; however, there is no difference in the average Va in the three orientations. The results reveal that the cases V3, H1, and Fu have a more significant effect on Ta, Tr, and Tc, respectively. Cases V1, V3, H1, and Fu reduced the average Va by over 0.2 m s−1. Within all seven cases, the case Fu, the corridor of which is fully shaded by the GF, presented the strongest effect on all the indices, especially regarding average Va, which was reduced to nearly 0 m s−1 in the corridor. Average Ta, Tr, and Tc in the case Fu were reduced by 0.38 ◦C, 0.41 ◦C, and 0.70 ◦C in the east scenario, by 0.36 ◦C, 0.38 ◦C, and 0.54 ◦C in the south scenario, and by 0.24 ◦C, 0.10 ◦C, and 0.24◦C in the west scenario. Average Ta, Tr, and Tc in the case V3 were reduced by 0.20 ◦C, 0.23 ◦C, and 0.22◦C in the east scenario, by 0.21 ◦C, 0.23 ◦C, and 0.24 ◦C in the south scenario, and by 0.13 ◦C, 0.00◦C, and 0.10 ◦C in the west scenario. Average Ta, Tr, and Tc in the case H1 were reduced by 0.16 ◦C, 0.17 ◦C, and 0.04 ◦C in the south scenario, and 0.17 ◦C, and 0.16 ◦C in the east scenario, by 0.17 by 0.11.
+
+Then, more detailed data of the section of the corridor were collected, which show the distribution of the Ta, Va, and Tr values on the distance to the GFs at a height of 1.1 m (Figure 12). The results show that the Ta and Tr are reduced within the depth increases in the corridor due to the shading effect of the GF and the corridor and the Va increase in depth. Comparing the results in three orientations, the Ta of cases Fu, V3, and H1 presents the most significant reduction as well as the surface average value. Furthermore, it was seen that the Ta of case H3 is higher than that of case Un at a distance of 1.2–2.4 m.
+
+Regarding the Va distribution, the case Un can be considered a baseline since it stays stable at approximately 1.1 m s−1 and has little difference in depth. Va is reduced significantly near the GF and with increasing corridor depth, except for the case H3, the Va value of which was higher than that of case Un at the test surface. The Va values of other cases increase in different levels as the depth increases, some of which are higher than the baseline at a distance of 1.2–2.4 m, showing that the GF reduction of Va mainly occurs at a limited distance.
+
+|Cases|Ta (◦C)|Va (m s−1)|Tr (◦C)|Tc (◦C)|
+|---|---|---|---|---|
+| |S|W|E|S|W|E|S|W|E|S|W|E|
+|Un|32.55|32.59|32.44|1.10|1.10|1.11|32.06|32.56|31.58|32.43|32.58|32.24|
+|V1|32.51|32.57|32.38|0.88|0.88|0.88|32.04|32.50|31.56|32.39|32.55|32.17|
+|V2|32.50|32.56|32.37|0.98|0.98|0.98|32.07|32.49|31.57|32.40|32.54|32.17|
+|V3|32.34|32.46|32.24|0.60|0.60|0.60|31.83|32.56|31.48|32.19|32.48|32.02|
+|H1|32.38|32.48|32.28|0.73|0.73|0.73|31.89|32.56|31.54|32.25|32.51|32.08|
+|H2|32.44|32.49|32.33|1.08|1.08|1.08|32.01|32.54|31.51|32.34|32.50|32.14|
+|H3|32.57|32.63|32.45|1.25|1.25|1.25|32.10|32.56|31.63|32.47|32.61|32.27|
+|Fu|32.19|32.35|32.06|0.05|0.05|0.05|31.69|32.33|31.16|31.90|32.34|31.54|
+|Cor1|−0.85|−0.81|−0.85|−0.77|−0.77|−0.77|−0.82|−0.46|−0.68|−0.82|−0.77|−0.76|
+
+1 Cor, correlation between indices and GFs’ volumes.
+---
+# Sustainability 2019, 11, x FOR PEER REVIEW
+
+|Case Fu - Ta|Case V3 - Ta|Case H1 - Ta|
+|---|---|---|
+|Va; mfsH| | |
+|Case Fu - Va|Case V3|Case H1|
+|Case Fu|Case V3|Case H1 - Tr|
+| |10-CCO|20 Cd0|
+|5,000|15,000| |
+
+# Sustainability 2019, 11, x FOR PEER REVIEW
+
+Figure 10. Distribution of indices at the test surface of the corridor in three typical cases of Fu, V3, and H1 in south orientation comparing to the case Un: (a) distribution of temperature; (b) distribution of wind velocity; (c) distribution of radiant temperature.
+
+| | | |
+|---|---|---|
+|33.0|32.8|32.8|
+|32.6| | |
+|32.4|32.2|32.0|
+|31.8|31.8| |
+|31.6|31.6| |
+|31.4|31.4| |
+|31.2|31.2| |
+|31.0|31.0| |
+|4Ta-5|Ta-W|Ta-E|
+|Va-5|Vi-W|Va-E|
+|Tc-S|TcVDTc-E| |
+
+# Sustainability 2019, 11, x FOR PEER REVIEW
+
+Figure 11. Results of average values on the test surface at the corridor: (a) results of average temperature, radiant temperature, and wind velocity; (b) results of average comfort temperature.
+---
+# Sustainability 2019, 11, x FOR PEER REVIEW
+
+17 of 23
+
+# Sustainability 2019, 11, 5691
+
+15 of 21
+
+| |South|West|East|
+|---|---|---|---|
+|Distance to GF [m]|8 83 3 3 3 39993?|3 3 3 3 8 ? 339 9 3| |
+|Distance to GF [m]|8 83 3 3 3 39993?|3 3 3 3 8 ? 339 9 3| |
+
+Figure 12. Results of the indices distributing in distance to GF at the center of the corridor section:
+
+((a1–a3) distribution of temperature on three orientations; (b1–b3) distribution of radiant temperature on three orientations; (c) distribution of wind velocity.
+
+# 4. Discussion
+
+# 4.1. Thermal Comfort in Field Measurements
+
+Both measurements were taken on typical summer days. Measurement A only recorded the indices of Ta and RH for a week due to limitations of the instruments. Measurement B data were more comprehensive on two sunny days and provide a deeper understanding of human thermal comfort in the transitional space. In both cases, the average Ta was reduced by 0.5◦C–1.2 ◦C in the area shaded by GFs comparing to the outdoor environment, and the results showed the optimization of the thermal environment on summer days. The results for average Ta reduction are in agreement with the measurements of Wang et al. [ 10 ], Jim [ 52], and Perini et al. [17 ]. Further comparison of Ta, Tg, and MRT for points unshaded, in front of, and behind the GF also demonstrated the shading and cooling effect of the GF. Comparing the PET according to the assessment scale, the average PET of the shaded area was mitigated from the strong heat stress level (38◦C–42 ◦C) to the slight heat stress level (30◦C–34 ◦C) compared to the outdoor environment (Figure 8g and Appendix A). This demonstrates the optimization of thermal comfort in the transitional space. However, the Va results revealed that the foliage layer of the GF had a strong dragging effect on wind flow in the transitional space. Considering the locations of the measurements, which were only test points in each space, a more detailed discussion of the thermal environment is limited, although each point showed significant differences in the thermal indices. Further study is needed for a more comprehensive evaluation of different spaces as well as of different GF shading ratios.
+
+# 4.2. Correlation Analysis of Indices with PET
+
+Correlation and regression analyses of the indices were given for Measurement B (Table 5 and Figure 13). The results revealed that the correlations with the Tg and MRT indices, except for Ta and Va indices and PET, were higher than 0.8. The correlation with Ta and PET is highest in the shaded area (0.99) and lowest in the outdoor environment (0.53). Regression analysis showed that the Ta, Tg, and MRT indices had a positive effect on PET. R2 of Tg and MRT values were higher than 0.6, except for Ta and Va with PET. The R2 values of Ta with PET were much higher in the shaded area than in the unshaded area and were the lowest in the outdoor environment. In the shaded area, the PET was
+---
+# sensitively affected by Ta and Tg when Va was reduced to a low level (0.16–0.19 m s−1 in two days).
+
+the unshaded area and were the lowest in the outdoor environment. In the shaded area, the PET was sensitively affected by Ta and Tg when Va was reduced to a low level (0.16–0.19 m s−1 in two days).
+
+Thus, via the correlation and regression analyses of different indices with PET, it could be pointed out that, in the shaded area, the air temperature, globe temperature, and MRT were reduced and the human thermal comfort was improved. It is noteworthy that, without an HVAC system, the thermal environment is out of manual control in some respects. However, the shading and cooling effects of the GFs provide a chance to optimize the thermal environment in the transitional space.
+
+**Table 5. Correlation analysis of thermal indices with Physiologically Equivalent Temperature (PET).**
+|Indices|Indices A: Outdoor|B: Front|C: Unshaded|D: Shaded|
+|---|---|---|---|---|
+|Ta|0.53|0.67|0.94|0.99|
+|Tg|0.85|0.95|0.98|0.98|
+|MRT|0.81|0.98|0.92|0.99|
+|Va|0.13|0.22|-0.23|-0.03|
+
+Figure 13. Regression analysis of the indices with Physiologically Equivalent Temperature (PET): (a) temperature with PET; (b) globe temperature with PET; (c) MRT with PET; (d) wind velocity with PET.
+
+# 4.3. Analysis of GF Shading Effect
+
+In comparing the GFs simulated with CFD, the typologies of the GFs were mainly constructed by the forms of existing building and shading devices. However, in the comparison of the three orientations, the forms of the GFs have little effect on the results. This may be because the definition of a GF is that it is a porous material, the porosity of which is at a high level (0.983), so that the shading forms had small effects on the different orientations.
+
+# 4.4. GF Volume and Its Effect on Thermal Comfort
+
+As the form of GF has a low effect on shading performance, further analysis comparing the volume of GFs and the thermal indices was conducted through regression and correlation analyses (Table 4).
+---
+# Sustainability 2019, 11, x FOR PEER REVIEW
+
+Volume and Its Effect on Thermal Comfort
+
+As the form of GF has a low effect on shading performance, further analysis comparing the volume of GFs and the thermal indices was conducted through regression and correlation analyses. The results revealed that the setting of GF volume had a negative effect on three indices. The R2 value of Va was 0.71, that of Ta was 0.74–0.84, and that of Tr was 0.24–0.87 in the three orientations. The correlation index was calculated and revealed high correlations between the indices with GF volumes as well, except the scenario of Tr on the west side. Since cases V3, H1, and Fu had the highest volumes of the GF, they provided the most significant optimization of the thermal environment in the simulations. The results also showed that some cases of GFs had a low impact on the thermal environment of the corridor, such as V1 and V2, due to the low volume value and dispersed distribution of the GFs. Case H3 even presented an increase in the Ta because the GF only covered the upper part of the corridor, but the center height of human beings was exposed without shading. Case Fu presented the best performance for the reduction of Ta, Tr, and Tc of the corridor, and even Va in the corridor was decreased to its lowest value. As found in the analysis of the field measurements, when wind velocity is at a low level, thermal comfort is affected mainly by heat transfer and solar radiation, which are efficiently decreased by GF. Thus, regarding the aspect of thermal comfort, case Fu may be the better choice for GF application. Considering the wind flow in the building, cases with some openings—such as V3 and H1, whose average Vas were reduced by 0.51 and 0.38 m s−1, while the average Ta and Tc values were still reduced by 0.11°C–0.21°C and 0.04°C–0.24°C, respectively, in the three orientations—are still good strategies for GFs.
+
+| |GF volume (m')|Ta|Linear (Ta-5)|GF volume (m')|Linear (Tr-WI)|Linear (Tr-E)|
+|---|---|---|---|---|---|---|
+|Linear (a-Wi)|Figure 14. Regression analysis of the indices with the GF volume: (a) temperature with the GF volume;| | | | | |
+| |(b) wind velocity with the GF volume;| | | | | |
+| | |(c) radiant temperature with the GF volume.| | | | |
+
+# Limitations of This Study
+
+In this study, processes were devised for field measurements, simulation setting evaluations, and GF model simulations. Some limitations exist in these components. For the test instruments, it could be noticed that the differences on the average temperature between the test points of B, C, and D of the second day in Measurement B are lower than 0.2°C, while the HOBO data loggers only promise the accuracy of ±0.21°C. To improve the accuracy of the data, all the loggers have been protected by the solar radiation shields; however, considering the slight changes in the thermal environment in some specific situations, an instrument with higher accuracy should be considered in the future. For the field measurements, since they were taken in an existing building, position settings and measurement duration were somewhat limited by the building application and management. For Measurement A, a duration of one week presented a better understanding in the typical summer climate, including different periods, such as rainy and sunny days. However, the measurement recording only the Ta and RH data limited a deeper analysis of thermal comfort. For Measurement B, more comprehensive measurements were taken but only in the daytime. Thus, analyses should combine both measurements to obtain a deeper understanding of the effects of GFs. The simulation model settings were based on some typical GF typologies, which, in turn, were based on investigations and physical definitions of GFs only set to be a standard model. The current
+---
+study was much more focused on the performance of the thermal effect achieved by the GFs. Discussions of other factors (e.g., plant species, foliage coverage ratio, and supporting components) were lacking in the study. Furthermore, some physical parameters of the GFs—such as leaf area index, solar irradiation transmission and heat convection, and evaporation rate—were also lacking. Thus, further studies should improve the field measurements as well as the simulation settings.
+
+As the different systems of GFs were compared in this study, each system relies on different support structures, plant containers, and irrigation and drainage systems. Thus, the economic cost comparison of different systems is also an important perspective for the application; however, this is lacking in the current study.
+
+# 5. Conclusions
+
+In this study, a GF validation model and two field measurement cases were used to facilitate a comparison of seven different GF construction methods for three orientations using CFD simulations. The field measurement results showed a GF’s potential to optimize the thermal environment of a transitional space in a hot-humid climate in the summer. Average PET at a shaded area by GF was reduced by 2.54◦C and 1.43 ◦C compared to the outdoor environment and an unshaded area. In the CFD simulations, the case of the full-coverage GF had a better effect on temperature comfort due to the shading and cooling effect of the highest GF volume. Considering the balance of temperature and wind-flow velocity, cases V3 and H1 are also good choices. Thus, in applications, a full surface construction support system on the building envelope is much more convenient for plant growth and maintenance, respectively, to avoid the climbing plants growing without control and twining on other building structures and façade components, a distance between the support system and the bare wall as well as between the different panels of GFs in both vertical and horizontal distributions is needed.
+
+Although certain limitations in the field measurements and simulation settings should be improved in future work, these results still provide a valuable reference for further studies on the effectiveness and design of GFs for improving human thermal comfort.
+
+Author Contributions: Project administration, Y.L.; Supervision, Y.X. and F.M.; Writing—original draft, H.L.
+Funding: This research was funded by the State Scholarship Fund of China, Grant No. 201606150060, the National Natural Science Foundation of China, Grant Nos. 51478188 and 51908220, and the Science and Technology Planning Project of Guangzhou, China, Grant No. 201607020026.
+Acknowledgments: We thank the suggestions from the reviewers for improving this research. We also thank LetPub (www.letpub.com) for its linguistic assistance during the preparation of this manuscript.
+Conflicts of Interest: The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.
+
+# Appendix A
+
+|Indices|A: Outdoor|B: Front|C: Unshaded|D: Shaded|Difference A–B|Difference A–D|Difference C–D|
+|---|---|---|---|---|---|---|---|
+|Ta (◦C)| | | | | | | |
+|Day1 Ave.|34.23|32.98|32.30|31.77|1.25|2.46|0.53|
+|Day1 Max.|36.01|35.66|34.41|33.47|0.35|2.54|0.94|
+|Day1 Min.|29.27|29.02|28.62|28.47|0.25|0.80|0.15|
+|Day2 Ave.|34.99|34.47|34.31|34.37|0.52|0.62|-0.06|
+|Day2 Max.|36.01|35.66|34.41|33.47|0.35|2.54|0.94|
+|Day2 Min.|30.85|31.13|30.93|31.15|-0.28|-0.30|-0.23|
+---
+# Table A1. Cont.
+
+|Indices|A: Outdoor|B: Front|C: Unshaded|D: Shaded|Difference A–B|Difference A–D|Difference C–D|
+|---|---|---|---|---|---|---|---|
+|Ta (◦C)| | | | | | | |
+|Day1 Ave.|34.23|32.98|32.30|31.77|1.25|2.46|0.53|
+|Day1 Max.|36.01|35.66|34.41|33.47|0.35|2.54|0.94|
+|Day1 Min.|29.27|29.02|28.62|28.47|0.25|0.80|0.15|
+|Day2 Ave.|34.99|34.47|34.31|34.37|0.52|0.62|-0.06|
+|Day2 Max.|36.01|35.66|34.41|33.47|0.35|2.54|0.94|
+|Day2 Min.|30.85|31.13|30.93|31.15|-0.28|-0.30|-0.23|
+|RH (%)| | | | | | | |
+|Day1 Ave.|60.79|66.53|68.20|69.21|-5.74|-8.42|-1.00|
+|Day1 Max.|84.29|82.43|83.31|83.70|1.87|0.59|-0.39|
+|Day1 Min.|50.94|55.31|57.44|58.56|-4.37|-7.62|-1.12|
+|Day2 Ave.|57.11|59.09|59.38|60.60|-1.98|-3.48|-1.22|
+|Day2 Max.|73.23|74.25|73.01|73.95|-1.02|-0.72|-0.94|
+|Day2 Min.|48.80|51.39|52.25|53.35|-2.59|-4.55|-1.11|
+|Va (m s−1)| | | | | | | |
+|Day1 Ave.|1.01|0.32|0.37|0.19|0.68|0.81|0.18|
+|Day1 Max.|2.36|1.37|1.27|0.92|0.99|1.44|0.35|
+|Day1 Min.|0.07|0.00|0.01|0.00|0.07|0.07|0.01|
+|Day2 Ave.|0.55|0.18|0.16|0.16|0.37|0.39|0.00|
+|Day2 Max.|2.48|1.16|0.81|0.62|1.32|1.86|0.19|
+|Day2 Min.|0.00|0.00|0.00|0.00|0.00|0.00|0.00|
+|Tg (◦C)| | | | | | | |
+|Day1 Ave.|37.76|37.18|33.87|32.15|0.58|5.61|1.73|
+|Day1 Max.|48.00|49.30|37.80|34.30|-1.30|13.70|3.50|
+|Day1 Min.|30.10|30.30|29.40|29.00|-0.20|1.10|0.40|
+|Day2 Ave.|40.32|38.34|34.81|34.44|1.98|5.88|0.37|
+|Day2 Max.|49.80|48.10|36.70|36.20|1.70|13.60|0.50|
+|Day2 Min.|32.50|32.20|31.20|31.20|0.30|1.30|0.00|
+|MRT (◦C)| | | | | | | |
+|Day1 Ave.|45.27|40.68|34.83|32.09|4.59|13.18|2.74|
+|Day1 Max.|70.20|66.60|41.00|34.40|3.60|35.80|6.60|
+|Day1 Min.|31.60|30.70|29.90|29.10|0.90|2.50|0.80|
+|Day2 Ave.|45.52|40.71|34.95|34.37|4.81|11.15|0.58|
+|Day2 Max.|70.20|66.60|41.00|34.40|3.60|35.80|6.60|
+|Day2 Min.|33.90|32.50|31.30|31.10|1.40|2.80|0.20|
+|PET (◦C)| | | | | | | |
+|Day1 Ave.|40.21|37.79|34.01|32.58|2.42|7.63|1.43|
+|Day1 Max.|53.50|52.80|38.50|34.50|0.70|19.00|4.00|
+|Day1 Min.|31.30|30.20|29.00|29.10|1.10|2.20|-0.10|
+|Day2 Ave.|41.02|38.48|35.25|34.98|2.54|6.04|0.27|
+|Day2 Max.|52.60|48.70|37.20|36.80|3.90|15.80|0.40|
+|Day2 Min.|31.60|32.30|30.70|31.50|-0.70|0.10|-0.80|
+
+# References
+
+1. Zölch, T.; Maderspacher, J.; Wamsler, C.; Pauleit, S. Using Green Infrastructure for Urban Climate-Proofing: An Evaluation of Heat Mitigation Measures at the Micro-Scale. Urban For. Urban Green. 2016, 20, 305–316. [CrossRef]
+2. Pérez, G.; Coma, J.; Martorell, I.; Cabeza, L.F. Vertical Greenery Systems (VGS) for Energy Saving in Buildings: A Review. Renew. Sustain. Energy Rev. 2014, 39, 139–165. [CrossRef]
+3. de Jesus, M.P.; Lourenço, J.M.; Arce, R.M.; Macias, M. Green Façades and in Situ Measurements of Outdoor Building Thermal Behaviour. Build. Environ. 2017, 119, 11–19. [CrossRef]
+4. Manso, M.; Castro-Gomes, J. Green Wall Systems: A Review of Their Characteristics. Renew. Sustain. Energy Rev. 2015, 41, 863–871. [CrossRef]
+---
+# 5. Jim, C.Y. Greenwall Classification and Critical Design-Management Assessments. Ecol. Eng. 2015, 77, 348–362. [CrossRef]
+
+# 6. Growing Green Guide. Available online: http://www.growinggreenguide.org/wp-content/uploads/2014/02/growing_green_guide_ebook_130214.pdf (accessed on 10 October 2019).
+
+# 7. Johnston, J.; Newton, J. Greater London Authority. Building Green: A Guide to Using Plants on Roofs, Walls and Pavements; Greater London Authority: London, UK, 2004.
+
+# 8. Helzel, M. World Stainless. Available online: http://www.worldstainless.org/Files/issf/non-image-files/PDF/Euro_Inox/VertGardens_EN.pdf (accessed on 11 October 2019).
+
+# 9. Chew, M.Y.L.; Conejos, S.; Azril, F.H.B. Design for Maintainability of High-Rise Vertical Green Facades. Build. Res. Inf. 2019, 47, 453–467. [CrossRef]
+
+# 10. Perini, K.; Rosasco, P. Cost–Benefit Analysis for Green Façades and Living Wall Systems. Build. Environ. 2013, 70, 110–121. [CrossRef]
+
+# 11. Wong, N.H.; Kwang Tan, A.Y.; Chen, Y.; Sekar, K.; Tan, P.Y.; Chan, D.; Chiang, K.; Wong, N.C. Thermal Evaluation of Vertical Greenery Systems for Building Walls. Build. Environ. 2010, 45, 663–672. [CrossRef]
+
+# 12. Köppen, W. The Thermal Zones of the Earth According to the Duration of Hot, Moderate and Cold Periods and to the Impact of Heat on the Organic World. Metz 2011, 20, 351–360. [CrossRef]
+
+# 13. Sunakorn, P.; Yimprayoon, C. Thermal Performance of Biofacade with Natural Ventilation in the Tropical Climate. Procedia Eng. 2011, 21, 34–41. [CrossRef]
+
+# 14. Jim, C.Y. Cold-Season Solar Input and Ambivalent Thermal Behavior Brought by Climber Greenwalls. Energy 2015, 90, 926–938. [CrossRef]
+
+# 15. Kontoleon, K.J.; Eumorfopoulou, E.A. The Effect of the Orientation and Proportion of a Plant-Covered Wall Layer on the Thermal Performance of a Building Zone. Build. Environ. 2010, 45, 1287–1303. [CrossRef]
+
+# 16. Coma, J.; Pérez, G.; de Gracia, A.; Burés, S.; Urrestarazu, M.; Cabeza, L.F. Vertical Greenery Systems for Energy Savings in Buildings: A Comparative Study between Green Walls and Green Facades. Build. Environ. 2017, 111, 228–237. [CrossRef]
+
+# 17. Perini, K.; Ottelé, M.; Fraaij, A.L.A.; Haas, E.M.; Raiteri, R. Vertical Greening Systems and the Effect on Air Flow and Temperature on the Building Envelope. Build. Environ. 2011, 46, 2287–2294. [CrossRef]
+
+# 18. Koyama, T.; Yoshinaga, M.; Maeda, K.; Yamauchi, A. Transpiration Cooling Effect of Climber Greenwall with an Air Gap on Indoor Thermal Environment. Ecol. Eng. 2015, 83, 343–353. [CrossRef]
+
+# 19. Jim, C.Y.; He, H. Estimating Heat Flux Transmission of Vertical Greenery Ecosystem. Ecol. Eng. 2011, 37, 1112–1122. [CrossRef]
+
+# 20. Pérez, G.; Rincón, L.; Vila, A.; González, J.M.; Cabeza, L.F. Behaviour of Green Facades in Mediterranean Continental Climate. Energy Convers. Manag. 2011, 52, 1861–1867. [CrossRef]
+
+# 21. Flores Larsen, S.; Filippín, C.; Lesino, G. Modeling Double Skin Green Façades with Traditional Thermal Simulation Software. Sol. Energy 2015, 121, 56–67. [CrossRef]
+
+# 22. Tan, C.L.; Wong, N.H.; Tan, P.Y.; Jusuf, S.K.; Chiam, Z.Q. Impact of Plant Evapotranspiration Rate and Shrub Albedo on Temperature Reduction in the Tropical Outdoor Environment. Build. Environ. 2015, 94, 206–217. [CrossRef]
+
+# 23. Šuklje, T.; Medved, S.; Arkar, C. On Detailed Thermal Response Modeling of Vertical Greenery Systems as Cooling Measure for Buildings and Cities in Summer Conditions. Energy 2016, 115, 1055–1068. [CrossRef]
+
+# 24. Šuklje, T.; Arkar, C.; Medved, S. The Local Ventilation System Coupled with the Indirect Green Façade: A Preliminary Study. Int. J. Des. Nat. Ecodyn. 2014, 9, 314–320. [CrossRef]
+
+# 25. Chun, C.; Kwok, A.; Tamura, A. Thermal Comfort in Transitional Spaces–Basic Concepts: Literature Review and Trial Measurement. Build. Env. 2004, 39, 1187–1192. [CrossRef]
+
+# 26. Chun, C.; Tamura, A. Thermal Comfort in Urban Transitional Spaces. Build. Env. 2005, 40, 633–639. [CrossRef]
+
+# 27. China Meteorological Administration (In Chinese). Available online: http://www.cma.gov.cn/en2014/ (accessed on 11 October 2019).
+
+# 28. Bellia, L.; Marino, C.; Minichiello, F.; Pedace, A. An Overview on Solar Shading Systems for Buildings. Energy Procedia 2014, 62, 309–317. [CrossRef]
+
+# 29. Mirrahimi, S.; Mohamed, M.F.; Haw, L.C.; Ibrahim, N.L.N.; Yusoff, W.F.M.; Aflaki, A. The Effect of Building Envelope on the Thermal Comfort and Energy Saving for High-Rise Buildings in Hot–Humid Climate. Renew. Sustain. Energy Rev. 2016, 53, 1508–1519. [CrossRef]
+---
+# References
+
+30. Zhang, Z.; Zhang, Y.; Ding, E. Acceptable Temperature Steps for Transitional Spaces in the Hot-Humid Area of China. Build. Environ. 2017, 121, 190–199. CrossRef
+
+31. Jitkhajornwanich, K.; Pitts, A.C. Interpretation of Thermal Responses of Four Subject Groups in Transitional Spaces of Buildings in Bangkok. Build. Environ. 2002, 37, 1193–1204. CrossRef
+
+32. Toparlar, Y.; Blocken, B.; Maiheu, B.; van Heijst, G.J.F. A Review on the CFD Analysis of Urban Microclimate. Renew. Sustain. Energy Rev. 2017, 80, 1613–1640. CrossRef
+
+33. Lin, H.; Xiao, Y.; Musso, F. Shading Effect and Heat Reflection Performance of Green Façade in Hot Humid Climate Area: Measurements of a Residential Project in Guangzhou, China. IOP Conf. Ser. Earth Environ. Sci. 2018, 146, 012006. CrossRef
+
+34. International Organization for Standardization. Available online: https://www.iso.org/standard/14561.html (accessed on 11 October 2019).
+
+35. Mayer, H.; Höppe, P. Thermal Comfort of Man in Different Urban Environments. Theor. Appl. Climatol. 1987, 38, 43–49. CrossRef
+
+36. Matzarakis, A.; Rutz, F.; Mayer, H. Modelling Radiation Fluxes in Simple and Complex Environments—Application of the RayMan Model. Int. J. Biometeorol 2007, 51, 323–334. CrossRef PubMed
+
+37. Ip, K.; Lam, M.; Miller, A. Shading Performance of a Vertical Deciduous Climbing Plant Canopy. Build. Environ. 2010, 45, 81–88. CrossRef
+
+38. Koyama, T.; Yoshinaga, M.; Hayashi, H.; Maeda, K.; Yamauchi, A. Identification of Key Plant Traits Contributing to the Cooling Effects of Green Façades Using Freestanding Walls. Build. Environ. 2013, 66, 96–103. CrossRef
+
+39. Gromke, C.; Blocken, B.; Janssen, W.; Merema, B.; van Hooff, T.; Timmermans, H. CFD Analysis of Transpirational Cooling by Vegetation: Case Study for Specific Meteorological Conditions during a Heat Wave in Arnhem, Netherlands. Build. Environ. 2015, 83, 11–26. CrossRef
+
+40. Shih, T.-H.; Liou, W.W.; Shabbir, A.; Yang, Z.; Zhu, J. A New K-ε Eddy Viscosity Model for High Reynolds Number Turbulent Flows. Comput. Fluids 1995, 24, 227–238. CrossRef
+
+41. Fidaros, D.K.; Baxevanou, C.A.; Bartzanas, T.; Kittas, C. Numerical Simulation of Thermal Behavior of a Ventilated Arc Greenhouse during a Solar Day. Renew. Energy 2010, 35, 1380–1386. CrossRef
+
+42. Richards, P.J.; Hoxey, R.P. Appropriate Boundary Conditions for Computational Wind Engineering Models Using the K-ε Turbulence Model. J. Wind Eng. Ind. Aerodyn. 1993, 46–47, 145–153. CrossRef
+
+43. López, A.; Molina-Aiz, F.D.; Valera, D.L.; Peña, A. Determining the Emissivity of the Leaves of Nine Horticultural Crops by Means of Infrared Thermography. Sci. Hortic. 2012, 137, 49–58. CrossRef
+
+44. Mercer, G.N. Modelling to Determine the Optimal Porosity of Shelterbelts for the Capture of Agricultural Spray Drift. Environ. Model. Softw. 2009, 24, 1349–1352. CrossRef
+
+45. Boulard, T.; Wang, S. Experimental and Numerical Studies on the Heterogeneity of Crop Transpiration in a Plastic Tunnel. Comput. Electron. Agric. 2002, 34, 173–190. CrossRef
+
+46. Liu, J.; Chen, J.M.; Black, T.A.; Novak, M.D. E-ε Modelling of Turbulent Air Flow Downwind of a Model Forest Edge. Boundary-Layer Meteorol 1996, 77, 21–44. CrossRef
+
+47. Sanz, C. A Note on k - ε Modelling of Vegetation Canopy Air-Flows. Boundary-Layer Meteorol. 2003, 108, 191–192. CrossRef
+
+48. Susorova, I.; Angulo, M.; Bahrami, P.; Stephens, B. A Model of Vegetated Exterior Facades for Evaluation of Wall Thermal Performance. Build. Environ. 2013, 67, 1–13. CrossRef
+
+49. Eneagrid. Available online: http://www.afs.enea.it/project/neptunius/docs/fluent/html/ug/node3.htm (accessed on 11 October 2019).
+
+50. Myhren, J.A.; Holmberg, S. Comfort temperatures and operative temperatures in an office with different heating methods. Proc. Healthy Build. 2006, 2, 47–52.
+
+51. Tian, L.; Lin, Z.; Liu, J.; Yao, T.; Wang, Q. The Impact of Temperature on Mean Local Air Age and Thermal Comfort in a Stratum Ventilated Office. Build. Environ. 2011, 46, 501–510. CrossRef
+
+52. Jim, C.Y. Thermal Performance of Climber Green Walls: Effects of Solar Irradiance and Orientation. Appl. Energy 2015, 154, 631–643. CrossRef
+
+© 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+View publication stats

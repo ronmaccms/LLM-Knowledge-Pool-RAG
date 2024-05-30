@@ -14,9 +14,9 @@ def merge_json_files(directory):
     return merged_data
 
 # Merge JSON files
-merged_json = merge_json_files("knowledge_pool")
+merged_json = merge_json_files(r"C:\Users\ARoncal\source\repos\GENAI-Joao\LLM-Knowledge-Pool-RAG\knowledge_pool\Competition_brief.txt")
 
-output_file_path = "knowledge_pool/merged.json"
+output_file_path = r"C:/Users/ARoncal/source/repos/GENAI-Joao/LLM-Knowledge-Pool-RAG/knowledge_pool/merged.json"
 
 with open("knowledge_pool/merged.json", "w") as output_file:
     json.dump(merged_json, output_file, indent=4)

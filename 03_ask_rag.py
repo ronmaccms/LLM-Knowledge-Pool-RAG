@@ -4,7 +4,7 @@ import numpy as np
 import json
 from config import *
 
-embeddings_json= "knowledge_pool/brutalism_wikipedia.json"
+embeddings_json = r"C:\Users\ARoncal\source\repos\GENAI-Joao\LLM-Knowledge-Pool-RAG\knowledge_pool\Competition_brief.txt"
 
 # Choose between "local" or "openai" mode
 mode = "local" # or "local"

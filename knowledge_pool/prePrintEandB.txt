@@ -1,0 +1,550 @@
+# Experimental comparison of green facades with outdoor test cells during a hot humid season
+
+Article in Energy and Buildings · February 2019
+
+DOI: 10.1016/j.enbuild.2018.12.038
+
+|CITATIONS|READS|
+|---|---|
+|28|605|
+
+4 authors, including:
+
+- Georgios Kokogiannakis - University of Wollongong - 108 PUBLICATIONS 3,447 CITATIONS
+- Jo Darkwa - University of Nottingham - 111 PUBLICATIONS 2,824 CITATIONS
+- Yilin Li - University of Shanghai for Science and Technology - 28 PUBLICATIONS 309 CITATIONS
+
+All content following this page was uploaded by Georgios Kokogiannakis on 16 January 2019.
+
+The user has requested enhancement of the downloaded file.
+---
+# Experimental comparison of green facades with outdoor test cells during a hot humid season
+
+Georgios Kokogiannakis1*, Jo Darkwa2, Sofia Badeka3, Yilin Li4
+
+1Sustainable Buildings Research Centre (SBRC), University of Wollongong, Australia
+
+2Faculty of Engineering, University of Nottingham, UK
+
+3Centre for Sustainable Energy Technologies (CSET), University of Nottingham Ningbo, China
+
+4School of Environment and Architecture, University of Shanghai for Science and Technology, China
+
+*Corresponding author: gkg@uow.edu.au
+
+# Abstract
+
+We used outdoor test cells during a hot humid period to analyse the surface temperatures behind the following four types of green walls: a felt layer wall; a planter boxes wall; a direct climbing plants wall, and; an indirect climbing plants wall. We compared these temperatures with temperatures of a bare wall and we found that all four types of green facades were able to maintain lower temperatures than the bare wall, and that the felt layer and planter boxes wall had lower temperatures than the other walls for the majority of the study period. In particular, the daily average and peak surface temperatures behind the felt layer wall were by 1.9C to 4.8C and by 7.1C to 13.4C respectively lower than the bare wall. We undertook a significance analysis and produced Pearson coefficients to better understand the relationship between average daily weather conditions and the surface temperatures on all five test cells. We noted that the average daily solar radiation flux did not affect the surface temperatures behind the planter boxes and felt layer walls, but the daily average ambient air temperature was significantly correlated with the average and peak surface temperatures behind all four green facades. Finally, we concluded that the cooling potential of the felt layer and the planter boxes walls increases with higher amounts of solar radiation and higher ambient temperatures. In addition, from the analysis of the diurnal temperature variations and the time series trends we illustrated that the temperatures behind the felt layer and planter boxes walls fluctuated less than the other walls, which lead to a slower rate of surface temperature reductions during a cooler day than the other wall types of the study.
+
+# 1. Introduction
+
+Green vegetated facades have traditionally been seen only on a small number of buildings, in particular where building developers have considered them to be a visually appealing method for creating amenity spaces within an urban environment. There were also cases where political motivation provided incentives to install vegetated construction types, and in particular green roofs, in order to utilise their numerous energy and environmental benefits that they could offer within urban environments. Notable examples of effective political incentives have been seen in specific cities of USA and Canada [1] while widespread voluntary energy and environmental building certification schemes such as LEED [2] and BREEAM [3] do also reward a number of certification credits for buildings that incorporate green vegetated construction types. Research efforts on assessing the energy saving potential of vegetated facades have been significantly concentrated on horizontal green roofs since they have been applied in practice more than the green vertical walls. However, the increasing socio-economic and environmental issues that are associated with improving building designs have emerged opportunities for an increased application of green vertical
+---
+facades. This paper will focus on vertical vegetated green facades, which will often be simply called in this paper as green facades. The different types of green vertical facades have been reported by several authors in the literature [e.g. [4]–[9]]. Out of these studies a detailed effort to document the differences between the types of vertical green facades is given in [9] where the authors presented the following six main green vertical façade categories:
+
+|Type 1|Direct systems. This includes climbing plants that are directly attached to the wall of the building.|
+|---|---|
+|Type 2|Indirect systems. In this case, climbing plants are placed at a distance from the façade and use a supporting mechanism (cables, trellis, etc.) for their development.|
+|Type 3|Indirect system combined with planter boxes, which are essentially the same as the previous (type 2) indirect system but the plants have been placed in planter boxes instead of the ground.|
+|Type 4|Living wall with planter boxes are systems where the wall is covered by small planter boxes that contain potting soil for the growth of plants.|
+|Type 5|Living wall system with foam substrate (e.g. polyurethane) for the growth of the plants.|
+|Type 6|Living wall system with felt layer pockets. The concept of this system is the same as for the previous foam-based system, i.e. plants are growing within felt layers that are attached to the wall.|
+
+Adequate descriptions of the basic construction principles of the above systems can be found in previous publications, for example in [[6], [8], [9]], and commercial products in particular for living walls have also been developed. We do not intend to replicate the same discussion in this paper, but, instead, the focus is on assessing the potential of the different types of green facades on reducing surface temperatures of external wall surfaces of buildings. An experimental comparison is done for the summer period of a sub-tropical climate in China, which experiences hot and humid conditions. The paper aims to provide an experimental side by side evaluation of all the above types of green facades apart from the living walls with foam substrate (type 5 in the above list) since it was difficult to source or construct them in China and they were therefore not included in this study. The exact types of green facades that were studied will be further discussed in the methodology section (section 3).
+
+# Review of relevant green wall studies
+
+Assessing the potential energy savings from green vegetated walls and roofs is a challenging task due to the complex energy and moisture interactions within the layers of such constructions (evapotranspiration, reduced convection and radiation fluxes on the surface layer behind or below the green construction, etc.). Modelling, and in particular whole building integrative modelling, has not advanced in ways that easily capture all the complex heat and moisture flows within vertical green constructions. A detailed treatment of living walls in modelling programs would also require detailed user inputs. As a result, in most cases the analysis of the energy performance of green facades was done in the past with experimental measurements. A summary description of the main studies on this topic (ordered in terms of location), is given in Table 1, but we excluded from this Table two studies that were done in colder climates ([6], [10]):
+---
+|Source|Type of facades|Climate and duration|Main findings|
+|---|---|---|---|
+|[11]|Bare wall and living wall with planter boxes placed at a distance from the wall (west facing on a cellular box).|One summer day in a hot humid climate in China.|Exterior wall temperatures of the cell with the living wall were reduced by a maximum of 20.8°C.|
+|[12]|Bare wall and climbing plants on an existing building.|One hot summer day in Beijing, China.|During daytime, climbing plants reduced the surface temperatures by approximately 12.7°C, while during the night the bare wall could be at slightly lower temperatures than the green wall.|
+|[13]|Bare wall and turf-based vertical planting modules on an elevated facade wall of a public housing apartment.|More than a month in late summer (out of which four days were discussed) in Hong Kong.|Surface temperature behind the vegetated façade in a hot afternoon was reduced by 16°C, but only by about 1.3°C in the night.|
+|[14]|Bare wall and five stand-alone climbing plants walls.|20 summer days in Japan.|Maximum temperature differences between vegetated and non-vegetated walls varied between plant species from 3.7°C to 11.3°C, while the average temperature differences varied from 2.7°C to 5.6°C.|
+|[15]|Bare wall and climbing plants on an existing building.|Clear and cloudy summer days (the exact period is unclear) in Japan.|External surface temperature was reduced by up to 18°C.|
+|[16]|Bare wall and eight stand-alone green facades (seven living walls and one climbing plants wall).|Three clear-sky days in Singapore (warm climate all year round).|Maximum reduction of wall surface temperatures for living walls ranged from 4.7°C to 11.6°C. Maximum temperature reduction for the climbing plants wall was from 1.1°C to 4.4°C.|
+|[17]|Bare wall and climbing plants on an existing building.|Four summer days in Chicago, USA.|Maximum difference between the bare and vegetated exterior surface temperatures was 5.7°C, and daily average difference was 1°C and 0.2°C on a sunny and a cloudy day respectively.|
+---
+# Bare wall and climbing plants on an existing building
+
+Nine summer days in Chicago, USA.
+Exterior surface temperatures were reduced by an average of 0.7°C and by a maximum of 12.6°C.
+
+# Bare wall and felt layer green living walls
+
+Summer of a temperate Mediterranean climate in Northern Italy.
+Sunny days, external surface temperature differences between the bare wall and the covered wall varied from 12°C to 20°C, but only from 1 - 2°C during cloudy days.
+
+# Bare wall and climbing plants on an existing building
+
+A summer month in a Mediterranean climate in Greece.
+External surface temperature was lower for the climbing plants wall than the temperature of the bare wall by 1.9°C to 8.3°C and on average by about 5.7°C.
+
+# Non-insulated test cell
+
+|Half of its south facing area was covered by an indirect green façade while the other half was left uncovered.|Summer period (July to September) in Greece.|
+|---|---|
+|Maximum temperature reduction behind the climbing plants was 20°C. The external face of the bare wall in this study had steel cladding (i.e. easy to overheat).| |
+
+# Indirect vertical green wall partially covering a building façade
+
+Summer of a dry Mediterranean continental climate in Spain.
+The surface temperature in non-shaded areas of the walls was on average 5.5°C higher than in shaded areas and by up to 17.6°C higher overall.
+
+In addition to the above, there has been a plethora of new studies that have been recently published on evaluating the thermal performance of green facades for their potential application in buildings. These studies varied in terms of methodology and climates and include measurements for: climbing walls attached on an actual building; planter boxes walls on actual buildings; evaluating the cooling potential during summer of a felt layer type wall installed on an actual office building façade; individual stand-alone walls that best match the planter boxes type of walls with the aim to validate a thermodynamic model; a scaled down building of a living wall with a substrate layer and six plant species; a full-scale test box that had a felt layer green wall and different levels of insulation; a climbing wall and a felt layer wall installed on two different buildings with the intention of validating a simulation model; a living wall (with substrate but unclear if planter boxes or felt layers were used) in order to validate a relevant hygrothermal model; evaluating the shading potential of different types of climbing plants by using test cell spaces; testing the impact of climbing walls on heat losses through the wall in winter by using 20 small scale outdoor cuboids; and testing the cooling potential and, air purification and humidification ability of an indoor Active Living Wall (ALW) with fans forcing air through it. The most relevant to our paper recent study was reported in where the authors measured temperatures on green walls with: planter boxes; a felt layer (mineral wool), and; climbing plants, and compared them with measurements taken from a bare wall. These measurements, however, were taken in an enclosed climate chamber under a series of steady state tests for emulating warm and cold conditions. Finally, a recent modelling study on the lifecycle performance of living walls in terms of air purification and energy savings potential was reported in.
+---
+The above summary is only an overview of previous studies in the field and it is not meant to replicate a review paper. A comprehensive review of previous green façade research studies was done in [37]. Five additional review papers were published since that first review. Four out of these five studies reviewed the following: green façade studies by climate and type [38], the characteristics of different green walls [39], findings from the literature about the thermal and CO2 sequestration performance of living walls [40] and, the lessons learnt from case studies of living wall applications [41]. Finally, the last and most recent review study provided a more generic review of the state-of-the-art green facade systems and the potential research gaps [42].
+
+Many of the previous studies used real buildings for evaluating green facades and were comparing these facades with parts of the building envelope (or in some cases with envelopes of other buildings in the area) that are not covered by green walls. While these studies are useful in terms of providing evidence-based findings for the performance of green facades, the comparisons could often be affected by the dynamic boundary conditions and the potential uncertainties from the indoor building space behind the façade. In this paper, we follow a concept similar to the one used in the PASSYS/PASLINK project [43] by using outdoor test cells to test all four types of green walls while isolating them from the uncertainties of the indoor environment and by exposing them at the same time to dynamic outdoor boundary conditions. By making the comparison between all green facades equivalent and by benchmarking them with a bare wall, this paper provides a comprehensive analysis and new evidence on their potential for reducing exterior wall temperatures during dynamically varying hot and humid weather conditions. In this way, temperature profile measurements across the exposed vegetated surfaces of the test cells were taken under hot and humid summer conditions. The following section will describe the exact types of green walls tested, the details of the method used and the experimental set-up. The results will then be presented and discussed in section 4.
+
+# Methodology and green wall types
+
+To experimentally compare the different vertical green façade types, five identical outdoor test cells were built and placed next to each other and outside the CSET building at the University of Nottingham in Ningbo (East China). The climate of Ningbo is characterised by hot-humid summers and cold-dry winters. The monthly average ambient temperature ranges from 6.3C in January to 26.6C in July, and with peak ambient temperatures often exceeding 35C during the summer.
+
+One of the test cells was left without a green façade with an exposed bare wall and it was used as a reference (control cell) for the comparison with the other four green facades (noted as BW in Figure 1). The main dimensions of the outdoor test cells are shown in Figure 2. One of the walls for each cell with a green façade was covered by the vegetated wall layer and had a net area of 0.95 m2 (0.63x1.5 m). All walls were made of masonry standard housing lightweight bricks with 80 mm thickness and their internal face was covered by 5 mm cement mortar. The green facades were installed on top of a thin 10 mm ceramic tile layer on the south-facing wall, while the rest of the walls of the test cells were heavily insulated with 200 mm of external extruded polystyrene insulation. The purpose of using high levels of insulation was to eliminate heat fluxes through these remaining non-vegetated surfaces and draw conclusions from the measurements that are associated only with the performance of the green facades. The roof surface was constructed with a 50 mm plywood layer and it is also covered by a 200 mm of extruded polystyrene. The floor of the structure is made by the same bricks as the walls, with two layers of bricks (80 mm each) separated by an approximately 350 mm thick layer of insulation. The non-South walls and the roof that were exposed to solar radiation were covered with a very thin reflective layer (see Figure 1) in order to increase their solar reflectivity and minimise the impact of solar radiation on the heat transferred through these elements. The indoor air temperature of the test cells was not controlled with a heating or cooling system in order to avoid the measurements across the five cells to be affected by differences between the inertia of heating/cooling systems and their associated controls.
+---
+# Figure 1: An overview of the five test cells and abbreviations used for the wall types
+
+Bw
+IGF
+DGfvs
+FLW
+PLW
+
+0.285 0.095
+
+# Figure 2: Cross section of the test cell structure
+
+An indirect green façade (IGF) with approximately 20 cm gap between the centre of the canopy and
+the wall (<5cm from the edge of the canopy and the wall) covered the south-facing wall of the second
+test cell (matching the façade types 2 and 3 in the introduction section of this paper and noted as IGF
+in Figure 1). The third test cell had a direct green façade (DGF) with the climbing plants being directly
+attached to the wall, while the fourth and the fifth test cells had a felt layer living wall (FLW) and a
+planter boxes living wall (PLW) respectively. The felt layer wall (FLW) was attached on the bare wall
+with a polymer emulsion adhesive layer while the planter boxes wall (PLW) was supported by a steel
+frame structure and steel rods (Figure 1 and Figure 3). A closer view of the green facades is shown in
+Figure 3.
+---
+# Figure 3: Profile details of the five test walls
+
+The specific plants were selected based on the local climate and their availability to the local community. Both direct (DGF) and indirect (IGF) green facades had the heart-leaf philodendron (Philodendron scandens) as climbing plant while both of the living walls (felt layer FLW and planter boxes PLW) were covered by baby rubber plants (Peperomia obtusifolia). All types of plants used in this study have low water irrigation requirements and since there were some light rainy days during our study period, it was not necessary to schedule irrigation periods for the plants.
+
+While it was straightforward to have plants covering the entire surface of the felt layer (FLW) and planter boxes (PLW) living walls, it was not possible to have the climbing plants covering the entire surface of the direct (DGF) and indirect (IGF) green wall systems over a three-month period prior to the start of the measurements. Images were taken of the walls (Figure 4) and processed with the image processing software ImageJ to quantify the percentage (%) cover of the climbing plants for the DGF and IGF walls. It was found that during the measurements of this study the climbing plants were covering 60-62% and 66-68% of the wall for the indirect (IGF) the direct (DGF) type respectively.
+
+# Figure 4: Images taken to approximate the wall percentage cover of the climbing plants
+
+Temperature and weather data were recorded at 10 min sampling intervals for 18 full days in total during the following three measurement periods: 3 - 13 July 2014; 18 - 20 July 2014; and, 23 – 26 July 2014. Data for six (6) additional days were also collected during July 2014 but they were not covering a full 24-hour period due to the frequent power cuts that occurred in the area and they were therefore only used in this paper for the comparisons that did not involve daily statistical analysis.
+
+Temperature measurements were taken at 21 locations around the test cells as shown in Figure 5. Thermocouples (K-type Omega TT-K-30-SLE, accuracy 0.2% or ±1C above 0C) were used for the temperature measurements after undertaking a calibration process with ice and controlled water.
+---
+# temperature bath
+
+Indoor air and indoor/outdoor surface temperatures were recorded for each test cell. Plant/leaf temperatures were also recorded and for the indirect green façade cell (IGF) additional measurements were taken for the air gap temperature between the canopy and the brick wall of the cell. Finally, the ambient air temperature was also recorded with the same type of thermocouple sensors as for the other temperature measurements. While the test cells with the direct green façade (DGF) and the indirect green façade (IGF) had climbing plants that did not cover the entire external surface area, the outdoor surface temperatures that are reported in this paper were measured behind the area of the façade that is covered by the plants.
+
+|BW|IGF|DGF|FLWN|PLW|
+|---|---|---|---|---|
+|Figure 5: Plan layout (top view) - Location of 21 thermocouples across the five test cells|Figure 5: Plan layout (top view) - Location of 21 thermocouples across the five test cells|Figure 5: Plan layout (top view) - Location of 21 thermocouples across the five test cells|Figure 5: Plan layout (top view) - Location of 21 thermocouples across the five test cells|Figure 5: Plan layout (top view) - Location of 21 thermocouples across the five test cells|
+
+An Orion LX Weather station was also available on site, within a 30 m distance from the test cells, and was used for recording wind speed (±3% accuracy at 10 m/s), wind direction (±3o accuracy), relative humidity (±3% accuracy at RH of 90%-100%) and accumulated rainfall (±5% accuracy and resolution of 0.254mm). To avoid inconsistencies with the calibrated thermocouples, the temperature measurements from the weather station were not used in this study. The global and diffuse solar radiation was measured on-site with a Delta-T Sunshine SPN1 pyranometer (±10 W/m2 or ±8% accuracy on individual readings).
+
+# Results and discussion
+
+# Individual records and mitigation potential analysis
+
+Figure 6 shows the whole set of measured data for the outside layer surface temperatures of the walls (sensor 3 in Figure 5). This Figure clearly shows the impact of the planter boxes (PLW) and felt layer (FLW) walls on controlling the fluctuations of the temperatures for the whole period of the measurements. It can also be seen that the direct green facade surface temperatures were for the majority of the records within similar ranges as the indirect façade, but some records showed that the indirect green façade exhibits higher peak temperatures (Figure 6). On the other hand, the planter boxes wall temperatures were closer to those for the felt layer wall. For example, 50% of the measured data around the median value ranged between 26-29C for the planter boxes (PLW) and felt layer (FLW) walls, while the equivalent set of surface temperatures ranged from 26-31oC for the walls with the climbing plants (IGF and DGF).
+---
+# Types of green facades
+
+Figure 6: 10-min measured surface temperatures on the outside wall surface of the five test cells (behind the green facades) for the 18 complete days of the measurements and the 6 incomplete days (3050 records in total per test cell).
+
+The measurements were then analysed by using the concept of mitigation efficiency as previously described in [44]. In this case, the 10-min records were converted to hourly averages and the overheating of the bare wall in relation to the ambient air was used as a reference against which the overheating of the other walls was compared against. Least-squares linear correlations were prepared for all walls and are shown in Figure 7. The slope of the regression lines is an estimate of the overheating mitigation efficiency of the four green facades and it is quantified by the ratio of the differences depicted in the two axes of Figure 7. This Figure shows that as the bare wall (BW) gets hotter in relation to the ambient air (horizontal axis), the potential of all four green facades to remain cooler than the bare wall increases (vertical axis). For a 3°C, for example, overheating of the bare wall in relation to the ambient air, the felt layer wall (FLW) will be approximately 6°C cooler than the bare wall, while the other walls will be cooler by approximately 5°C (PLW), 3.5°C (DGF) and 3°C (IGF).
+---
+# Figure 7: Overheating mitigation potential of green facades using hourly averaged records.
+
+|(a) Felt layer wall (FLW)|(b) Planter boxes wall (PLW)|
+|---|---|
+|(c) Direct green façade (DGF)|(d) Indirect green façade (IGF)|
+
+# Summary statistics of surface temperatures
+
+The minimum and maximum differences between the average daily outdoor surface temperatures behind the green wall layers (sensor 3 in Figure 5) and the outdoor surface temperature of the bare wall are listed in Table 2. One day has been excluded from the comparison in Table 2 because of its dissimilarity with the rest of the days of the study period due to the occurrence of unusually low summer ambient air temperatures for the area. It can be seen that the felt layer wall (FLW) is on average cooler than the rest of the green walls (by 1.9°C to 4.8°C on average per day), and in all cases the green facades had a lower average temperature than the bare wall.
+
+| |Minimum Difference (°C)|Maximum Difference (°C)|
+|---|---|---|
+|Felt layer wall (FLW)|1.9|4.8|
+
+The standard deviation of the above temperature differences is also shown in Table 2. The standard deviation for the direct green façade (DGF) and indirect green façade (IGF) types is relatively low, which indicates that the outdoor surface temperatures of these walls have similar ranges of fluctuations as the bare wall (BW). It also indicates that these two types of walls with climbing plants (DGF and IGF) have lower thermal inertia than the planter boxes wall (PLW) and felt layer wall (FLW) types.
+---
+| |ΔTd_avg_(PLW – BW)|ΔTd_avg_(FLW – BW)|ΔTd_avg_(DGF – BW)|ΔTd_avg_(IGF – BW)|
+|---|---|---|---|---|
+|Maximum (oC)|-3.8|-4.8|-2.4|-1.8|
+|Minimum (oC)|-1.4|-1.9|-0.6|-1.1|
+|Standard Deviation of daily average ΔT for 18 days (oC)|0.8|1.|0.4|0.2|
+
+Frequency histograms of the daytime and night-time measured surface temperatures of the five walls were plotted in Figure 8 and Figure 9, respectively. It can be seen that the surface temperatures of the felt layer wall (FLW) were more often lower than the temperatures of the other walls. Outdoor surface temperatures of less than 30°C were measured during daytime on FLW for almost the whole measurement period, while the equivalent surface temperatures on the bare wall (BW) were exceeding 30°C for more than 70% of the time during the day and in some cases they were recorded to be up to 43°C (Figure 8). When analysing the daytime measurements (Figure 8), the planter boxes living wall (PLW) was the second in order type of wall with less frequently measured high outdoor surface temperatures (the majority of temperatures were <31°C). The surfaces behind the two climbing plants (DGF and IGF cases) were also cooler than the bare wall during the daytime hours of the measurement period. The finding from the previous section is also verified here about the temperatures on the wall behind the indirect green façade (IGF) wall being by about 5% of the time greater than the temperatures on the direct green façade (measurements from sensor 3 in Figure 5). This shows that the specific relatively small air gap between the climbing plant and the wall of the test cell had a slightly negative impact on the cooling potential of the green wall, albeit different air gap distances were not tested in this study.
+
+There were less evident temperature differences between the five walls at night-time as the walls cool down but the felt layer wall (FLW) in this case too was the coolest amongst all other wall types (Figure 9). Interestingly, the bare wall in the night appears to be more frequently cooler than the two green walls with the climbing plants, however the differences on the percentages of high surface temperature occurrences is not significant. For example, the surface temperature of the bare wall (BW) was 82% of the night-time less than 29°C, while the equivalent percentages for the direct (DGF) and indirect (IGF) green facades were 75% and 78%, respectively (Figure 9).
+
+It should be noted that the measurements were taken during a hot season with frequently high ambient temperatures as Figure 8 and Figure 9 show. Overall, while the outdoor surface temperature of the bare wall (BW) was warmer than the ambient air for the majority of the daytime, all four green wall types were cooler (Figure 8).
+---
+# Outdoor surface temperatures percentage distribution (daytime)
+
+| |36-37°C|39-41°C|34-35°C|41-43°C|
+|---|---|---|---|---|
+|28-29°C| | | | |
+|32-33°C| |36-37°C|32-33°C|37-38°C|
+|34-35°C| | | | |
+|30-31°C| | |30-31°C|32-33°C|
+|28-29°C|28-29°C| |28-29°C|29-30°C|
+|26-27°C| | |28-29°C|29-30°C|
+|25-26°C| | | | |
+|&lt;25°C|&lt;25°C|42-5°C|&lt;25°C|&lt;25°C|
+
+Ambient Air (BW, PLW, FLW, DGF, IGF)
+
+# Percentage of occurrence of outdoor surface temperatures during daytime
+
+29-30°C
+29-30°C
+29-30°C
+27-28°C
+27-28°C
+25-26°C
+&lt;24°C
+
+Ambient Air (BW, PLW, FLW, DGF, IGF)
+
+# Percentage of occurrence of outdoor surface temperatures during night-time
+
+&gt;31°C
+30-31°C
+29-30°C
+28-29°C
+26-27°C
+25-26°C
+&lt;24°C
+
+# Peak temperature reductions and diurnal variations
+
+Figure 10 and 11 show the non-instantaneous and instantaneous differences between the peak outdoor surface temperatures of the wall layer behind the green facades and the peak temperatures
+---
+On the bare wall, respectively. A positive difference in Figure 10 and 11 means that the wall at the back of the green façade exhibits higher peak temperatures than the bare wall. A positive difference occurred only once in Figure 10 during the day when the weather conditions were colder than the rest of the days in the study. It can be seen that during hot summer days, the green wall with the felt layer (FLW) is able to drop the instantaneous peak surface temperatures by at least 7.1°C and by up to 13.4°C. The planter boxes (PLW) green wall temperatures show a similar trend as the felt layer wall temperatures (reductions range from 6.2°C to up to 12.4°C). There was only one day out of the 18 measured days (day 11 in Figure 10 and 11) that no significant peak temperature differences were noticed between the green facades and the bare wall. This was due to a sudden change of weather that day which included a significant ambient temperature drop. These results provide evidence that green facades could be one effective passive technique for reducing peak cooling loads in specific buildings (e.g. in lightweight buildings with significant conduction heat gains through the opaque wall elements).
+
+In terms of ranking the walls for their potential to reduce summer outdoor surface temperatures, the findings of this study agree with a previous ranking from the literature [35] in which the felt layer living walls exhibited greater cooling potential of surfaces, followed by the planter boxes walls. Climbing plants had less impact on those temperatures but higher than bare wall surfaces.
+
+Figure 10 and 11 also illustrate that for most days the direct green façade (DGF) demonstrated better ability to reduce the peak surface temperatures than the indirect green façade (IGF). The difference exceeded 2°C in some cases (e.g. Days 7 and 9 in Figure 10).
+
+| |Day number|T max daily ambient air (°C)|T_PLW maxT_BW max (K)|T_FLW maxT_BW max|T_DGF maxT_BW max|T_GF maxT_BW max|
+|---|---|---|---|---|---|---|
+| |10|34|10|11|12|13|14|15|16|17|18|
+
+Figure 10: Non-instantaneous (at different times of the day) daily peak temperature differences between the green walls and the bare wall (left axis) in relation to the peak ambient air temperature (right axis).
+---
+# Figure 11
+
+Instantaneous daily peak temperature differences between the green walls and the bare wall (left axis) in relation to the peak ambient air temperature (right axis).
+
+# Figure 12
+
+The diurnal external wall surface temperature variations are shown in Figure 12. It becomes obvious from this Figure that the felt layer green wall (FLW) has the greatest ability to minimise the daily surface temperature fluctuations as those fluctuations never exceeded 3°C during the period of the measurements. On the other hand, the diurnal variations for the ambient air temperature often exceeded 14-15°C, while the surface temperature fluctuations for the bare wall (BW) reached even up to 17°C.
+
+The planter boxes green wall (PLW) was ranked second in terms of maintaining more stable wall surface temperatures during the day (Figure 12 – diurnal surface temperature variations were less than 5°C). The direct (DGF) and indirect (IGF) green facades had always lower diurnal wall surface temperature fluctuations than the bare wall (BW), but these temperature fluctuations were always greater than 3°C, and in some cases exceeded 11°C. When comparing the direct green wall (DGF) with the indirect green wall (IGF), a similar conclusion as above for the peak temperatures can be drawn for the diurnal temperature variations; the direct green façade had a better ability to reduce the diurnal surface temperature variations than the indirect green façade. While the difference between the diurnal surface temperatures of the two climbing plant facades was small for most days of the measurement period, there were occasions that this difference exceeded 2°C (Days 1, 7, 9 and 10 in Figure 12).
+---
+# Figure 12: Diurnal external surface and ambient air temperature variation for 18 summer days
+
+| |Daynumber|
+|---|---|
+|Bare wall (BW)|Ambient air|
+|Indirect green facade (IGF)|Direct green facade (DGF)|
+|Planter boxes (PLW)|Felt layer (FLW)|
+
+# 4.5 Effect of climate parameters on green wall temperatures
+
+# 4.3.1 General remarks and correlation analysis
+
+The mean daily ambient air temperature during the 18 days with complete 24-hour measurements ranged from 24.5°C to 31.7°C, while the maximum air temperature was 40.2°C (Day 10). The maximum daily global horizontal solar radiation ranged from 735 to 1043 W/m2, with the exception of two days that the maximum global solar radiation on the horizontal plane was approximately 375 W/m2 (Day 11 and Day 17). Ningbo does not usually experience strong wind and this was the case for the period of the measurements. The average daily wind speed was measured to range from 0.76 m/s to 2.11 m/s. The maximum wind speed over the 18 days of the measurements was only 7.94 m/s, but in general, wind speed was below 4 m/s for more than 99% of the time of the measurement period. The average daily relative humidity ranged from 65% to 89% and this shows that our study was undertaken at a location and during a season that could be considered as humid. Light rain was recorded only during four days of the measurement period (Days 11, 12, 14 and 15). The measured daily-accumulated rainfall values ranged during these four days from 1 mm/day to up to approximately 2.8 mm/day.
+
+Pearson coefficients were produced to analyse the correlations between the daily average weather conditions during the 18 complete days of the study and the following variables for each façade:
+
+- Daily average surface temperatures (DAvg.Surf.Temp in Figure 13).
+- The difference between the daily average surface temperature behind the green façade layer and the bare wall (DeltaT_DAvg in Figure 13). By using the bare wall as a reference, the specific DeltaT_DAvg variable will show whether the average cooling benefits (or temperature reductions) from the green facades become more significant as the weather.
+---
+Parameters vary during the summer. For example, a high negative correlation coefficient between the DeltaT_DAvg of a specific green façade and the average daily solar radiation would be interpreted as that the green façade has a stronger potential to reduce the average daily wall surface temperatures in summer with greater values of average solar radiation. This metric could be simply interpreted as a metric to quantify reduction potential of surface temperatures due to the green façade.
+
+- Daily peak surface temperatures (DMax.Surf.Temp in Figure 14).
+- The difference between the daily maximum surface temperature behind the green façade and the bare wall (DeltaT_DMax in Figure 14). This variable is used in a similar way as the DeltaT_DAvg, but interprets the potential difference a green façade can make in relation to the occurrence of peak daily weather conditions.
+
+The significance level of the hypothesis tests was set at 0.05 and the packages corrplot and ggplot2 of the RStudio software were used to process the data and visualize the results. The results concerning the average surface temperatures are depicted in Figure 13 and for the maximum surface temperatures in Figure 14. The insignificant correlations were crossed out in these Figures. As expected, due to the low recorded wind speeds in the area the average and peak wall surface temperatures (sensor 3 in Figure 5) were not impacted by the average wind speed. We also note that the average and peak wall surface temperatures for the planter boxes (PLW) and felt layer (FLW) walls were independent of the average solar radiation flux, which could be interpreted as that these two types of green facades would provide an effective protection from the heat gains that are attributed to solar radiation in the summer. On the other hand, strong correlations were noticed between the outside surface temperatures behind all four green walls and the daily average ambient air temperature. In the cases of the two climbing plants walls (DGF and IGF) and the bare wall, the average surface temperatures could be almost predicted by the outdoor air temperature since the correlation coefficients were 0.97, 0.99 and 0.99.
+
+With regard to the daily average relative humidity (RH), we notice that only the daily average surface temperature of the felt layer wall (Figure 13) and the daily peak temperatures of the felt layer and planter boxes walls (Figure 14) were independent of the average daily relative humidity values. The daily average and peak surface temperatures behind the climbing plants and the bare wall were negatively correlated with the average relative humidity.
+---
+# Daily Average Solar
+
+|J8|3|6|88882|6|
+|---|---|---|---|---|
+| | |0.53|0.61|0.69|-0.82|-0.81|-0.73|-0.81|0.8|
+| | | | | | | | |0.6|
+
+# Daily Average Wind
+
+X
+X
+
+X
+X
+
+0.2
+
+# Daily Average RH
+
+| |-0.53|1|-0.72|-0.78|-0.79|0.80|0.83|0.47|-0.2|
+|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |-0.4|
+
+# Daily Average Ambient Temperature
+
+0.87
+0.79
+0.97
+0.99
+0.99
+-0.73
+-0.77
+-0.5
+-0.6
+-0.8
+
+Figure 13: Pearson coefficients and significance analysis (significance level = 0.05) between average daily weather conditions and i) average daily surface temperatures, and ii) average daily surface temperature reductions due to the green walls in relation to the bare wall.
+
+# Daily Average Solar
+
+| |0.65|0.77|0.81|-0.81|0.85|-0.72|0.62|0.8|
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | |0.6|
+
+# Daily Average Wind
+
+| | | | |X| | | |0.4|
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | |0.2|
+
+# Daily Average RH
+
+| |-0.64|-0.63|1|-0.64|0.58|0.6| |0.2|
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | |0.4|
+
+# Daily Average Ambient Temperature
+
+|0.83|0.79|0.93|0.89|0.83|-0.58|-0.64| |0.6|
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | |-0.8| |
+
+Figure 14: Pearson coefficients and significance analysis (significance level = 0.05) between average daily weather conditions and i) peak daily surface temperatures, and ii) peak daily surface temperature reductions due to the green walls in relation to the bare wall.
+
+From the correlation results for the differences between the green wall surface temperatures and the bare wall façade (DeltaT_DAvg and DeltaT_DMax in Figure 13 and Figure 14, respectively), we can conclude that the potential for surface temperature reductions with all types of green facades increases for higher amounts of daily average and peak solar radiation. This relationship is weaker for the climbing plant walls compared with the felt layer and the planter boxes walls, in particular for the case of the reduction of maximum surface temperatures where the Pearson coefficients for the DGF and IGF were -0.72 and -0.62, respectively. Similarly, the relationship between peak surface temperature reductions in relation to the daily average relative humidity becomes only significant for the felt layer and planter boxes walls (Figure 14), which means that these two types of walls are able to maintain lower peak surface temperatures, in comparison to the bare wall, irrespectively of the variations of the daily average outdoor humidity.
+---
+However, it should be noted that the study was done during a period that ambient relative humidity was always greater than 65%, and therefore this conclusion should be applied only for these conditions.
+
+Finally, we confirm from Figure 13 and Figure 14 that the difference of the surface temperatures that are noted between the felt layer or the planter boxes walls and the bare wall were significantly correlated to the ambient air temperatures and they become larger as the ambient air temperature increases. This implies that the cooling potential of these two types of walls increases in hotter climates. On the other hand, this correlation becomes insignificant for the climbing plants with the exception of the case where the reductions of the average surface temperature of the indirect green façade had a weak relationship with the daily average ambient air temperature and a Pearson coefficient of -0.5 was noted in Figure 13.
+
+These findings from Figure 13 and Figure 14 are in accordance with studies that followed similar methodologies, but they were instead testing the impact of extensive green roofs [45], [46].
+
+# Time series comparisons
+
+We present here a time series comparison between the outside surface temperatures of the five wall types for days that had different climatic conditions by using again data collected from sensor 3 (Figure 5) and from the weather station. We include: a sunny day (Figure 15); the day with the highest recorded ambient air temperature out of the 18 days of the study (Figure 16); a rainy day which was also the coolest and the most humid day of the study (Figure 17); and, a day with one of the highest recorded ambient air temperatures that was at the same time less humid and overcast (Figure 18).
+
+For the selected sunny day, when the recorded solar radiation values were greater than zero (daytime), the average and maximum solar radiation flux on the horizontal was 506 W/m2 and 989 W/m2, respectively, while the standard deviation was 305 W/m. The surface temperatures behind the green walls and on the bare wall are plotted in Figure 15. It can be clearly seen that the felt layer wall has a stable temperature profile with a standard deviation of 0.8C and maintains a lower temperature than the other facades during the day. On the other hand, the surface temperature behind the indirect green façade (IGF) follows closely the ambient air temperature profile, with standard deviation equal to that of the ambient air for the specific day (3.2C). As expected, the bare wall was the warmest amongst all walls, and the standard deviation of its surface temperature was 4.6C.
+
+Similar trends as those for the sunny day were noticed for the day with the highest recorded ambient air temperature (Figure 16). Again, the temperature behind the felt layer wall layer did not fluctuate a lot and it was lower than the temperatures of the other walls during daytime.
+
+The measurements from the day with the highest amount of accumulated rainfall are shown in Figure 17. Even though rain was recorded between 3.30am and 1.30pm that day, the total accumulated amount of rainfall was 2.794 mm for the whole period, which is relatively low. The specific day in Figure 17 was also the most humid day of the study, with an average humidity of 89%, as well as the coolest day with an average ambient temperature of 24.5C. Interestingly, this coolest day (13/July) occurred immediately after the warmest day (12/July) of the study that was previously discussed in Figure 16. The higher thermal inertia of the felt layer wall lead to a slower rate of surface temperature reductions.
+---
+# Figure 15: Outdoor surface and ambient air temperatures during a sunny day
+
+| |02:00|07:00|12:00|17:00|22:00|
+|---|---|---|---|---|---|
+|Time of day (09/July)|T Ambient air|Bare Wall|T Planter box|T Felt layer|T Direct green facade|T Indirect green facade|
+---
+| |02.00|07.00|12.00|17.00|22.00|
+|---|---|---|---|---|---|
+|Time of day (12 July)|Ambient air|Bare Wall| | | |
+|Planter box| | | | | |
+|Direct green facade| | | | | |
+
+Figure 16: Outdoor surface and ambient air temperatures during the hottest day (in terms of maximum ambient air temperature) of the study.
+
+| |02.00|07.00|12.00|17.00|22.00|
+|---|---|---|---|---|---|
+|Time of day (13 July)|Ambient air|Bare Wall| | | |
+|Planter box| | | | | |
+|Direct green facade| | | | | |
+
+Figure 17: Outdoor surface and ambient air temperatures during a slightly rainy, humid day that also had the lowest recorded ambient air temperature during the study.
+---
+# Outdoor Surface and Ambient Air Temperatures
+
+| |02.00|07.00|12.00|17.00|22.00|
+|---|---|---|---|---|---|
+|Time of day (25/July)|Ambient air| | | |Bare Wall|
+| |Planter box| | | |Felt layer|
+|Direct green facade| | | | |Indirect green facade|
+
+# Conclusions and Discussion
+
+Four main types of vertical green facades were compared with each other and with a bare reference wall by using identical outdoor test cells during a hot humid period. The main conclusion out of this comparison is that felt layer walls exhibit lower surface temperatures than the other walls, and that the planter boxes wall was the second in order green façade in terms of surface temperature reductions in summer. The felt layer and planter boxes walls were found to have daily average temperatures that were by 1.9°C to 4.8°C and by 1.4°C to 3.8°C respectively lower than the bare wall. These results were confirmed with an overheating mitigation analysis were hourly records were used to demonstrate the mitigation potential of the green facades in relation to the overheating of the bare wall in summer. The overheating mitigation outputs could be used for example when the associated green facades are modeled in building simulation models as an approximate adjustment to the boundary conditions on the outside of those facades during hot-humid periods.
+
+We also undertook a frequency distribution analysis for daytime and night-time periods, from which we could rank from coolest to hottest during the daytime period as: felt layer -> planter boxes -> direct climbing plants -> indirect climbing plants -> bare wall. However, the difference in terms of number of occurrences of surface temperature was small between the indirect and direct green facades. A major limitation in the results extracted for the climbing plants was that the plants were only partially covering the facades (DGF and IGF) due to the slow growth of the selected plants. This could have introduced vertical heat flows from the uncovered wall part that could make these walls warmer than when they are fully covered by climbing plants. In addition, the results for the IGF façade could be different as the width of the wall increases due to the reduced impact of potential side effects.
+
+The felt layer and planter boxes walls had also the lowest instantaneous peak surface temperatures compared with the bare wall. These were from 6.2°C to 13.4°C lower than the bare wall. The climbing plants walls had less impact on those peak temperatures, but their peak wall temperatures were still lower than those on the bare wall (ranged from 3°C to a bit less than 8°C lower than the bare wall).
+---
+# peak temperatures
+
+Similarly, the felt layer green wall had less diurnal surface temperature fluctuations than the other walls.
+
+# The relationship between the daily average weather conditions in summer and the daily average and peak surface temperatures
+
+was also discussed with a correlation analysis. The average and peak wall surface temperatures for the planter boxes and felt layer walls were independent of the average solar radiation flux, which demonstrates that these two types of green facades prevent solar radiation heat gains in summer. Significant correlations were however noticed between the surface temperatures behind all four green walls and the daily average ambient air temperature.
+
+# We also concluded from the correlation results
+
+that the potential for surface temperature reductions with all types of green facades increases for higher amounts of daily average and peak solar radiation, but this relationship is weaker for the climbing plant walls. Finally, we have verified that the difference of the surface temperatures that are noted between the felt layer or the planter boxes walls and the bare wall were significantly correlated with the ambient air temperatures and they become larger as the ambient air temperature increases. This could be interpreted as that the cooling potential of these two types of walls increases in hotter climates. On the other hand, this correlation becomes insignificant for the climbing plants. It should however be noted that the study was undertaken during a humid period and that the cooling potential of the green facades could increase in less humid climates because of the likely higher evapotranspiration rates from the plants.
+
+# While analysing the surface temperatures behind the green facades across different day types
+
+we found that for sunny and hot days, the felt layer wall had a stable temperature profile and maintained a lower temperature than the other facades during the day. We also noted that the surface temperature behind the indirect green façade was higher than the temperature behind the direct façade and closer to the ambient air temperature. However, the surface temperatures of the indirect and direct green façades were close to each other and fluctuated in a similar way during an overcast day. For the coolest day of the study (average ambient temperature = 24.5C), which was also a rainy and humid day, we observed that the felt layer and planter boxes walls maintained higher temperatures than the other walls and had a slower rate of surface temperature reductions.
+
+# The study presented here could be beneficial while developing Standards and Certification Schemes
+
+for buildings that incorporate vertical green walls. Such Standards or Schemes should consider the type of green wall and allocate different benefits or credits to each wall type. The results of this study provide also an evidence-based finding for the potential that vertical green walls have on mitigating peak surface temperatures during peak cooling seasons such as those encountered during heat waves.
+
+# Acknowledgements
+
+The authors would like to thank the National Natural Science Foundation of China (NSFC) for supporting the research of this study (Grant No. 51208271).
+
+# References
+
+[1] City of Toronto, “By-law 492 - Green Roofs,” Toronto Municipal Code, pp. 1–17, 2013.
+
+[2] LEED, “Whole building certification. U.S. Green Building Council. USA.” .
+
+[3] BREEAM, “Environmental assessment method for buildings. BRE, UK.” .
+
+[4] G. Pérez, L. Rincón, A. Vila, J. M. González, and L. F. Cabeza, “Green vertical systems for buildings as passive systems for energy savings,” Applied Energy, 88, no. 12, pp. 4854–4859, Dec. 2011.
+---
+# M. Ottelé, K. Perini, a L. a Fraaij, E. M. Haas, and R. Raiteri, “Comparative life cycle analysis for green facades and living wall systems,” Energy and Buildings, 43, no. 12, pp. 3419–3429, Dec. 2011.
+
+# K. Perini, M. Ottelé, a. L. a. Fraaij, E. M. Haas, and R. Raiteri, “Vertical greening systems and the effect on air flow and temperature on the building envelope,” Building and Environment, 46, no. 11, pp. 2287–2294, Nov. 2011.
+
+# R. a. Francis and J. Lorimer, “Urban reconciliation ecology: The potential of living roofs and walls,” Journal of Environmental Management, 92, no. 6, pp. 1429–1437, Jun. 2011.
+
+# K. Perini and P. Rosasco, “Cost-benefit analysis for green facades and living wall systems,” Building and Environment, 70, pp. 110–121, 2013.
+
+# K. Perini, M. Ottelé, E. M. Haas, and R. Raiteri, “Greening the building envelope, facade greening and living wall systems,” Open Journal of Ecology, 01, no. 01, pp. 1–8, 2011.
+
+# R. W. F. Cameron, J. E. Taylor, and M. R. Emmett, “What ’ s ‘ cool ’ in the world of green façades ? How plant choice in fl uences the cooling properties of green walls,” Building and Environment, 73, pp. 198–207, 2014.
+
+# Q. Chen, B. Li, and X. Liu, “An experimental evaluation of the living wall system in hot and humid climate,” Energy and Buildings, 61, pp. 298–307, Jun. 2013.
+
+# H. F. Di and D. Wang, “Cooling effect of ivy on a wall,” Experimental Heat Transfer, 12, no. 3, pp. 235–245, 1999.
+
+# C. Y. Cheng, K. K. S. Cheung, and L. M. Chu, “Thermal performance of a vegetated cladding system on facade walls,” Building and Environment, 45, no. 8, pp. 1779–1787, Aug. 2010.
+
+# T. Koyama, M. Yoshinaga, H. Hayashi, K. Maeda, and A. Yamauchi, “Identification of key plant traits contributing to the cooling effects of green façades using freestanding walls,” Building and Environment, 66, pp. 96–103, Aug. 2013.
+
+# A. Hoyano, “Climatological uses of plants for solar control and the effects on the thermal environment of a building,” Energy and Buildings, 11, no. 1–3, pp. 181–199, 1988.
+
+# N. H. Wong, A. Y. Kwang Tan, Y. Chen, K. Sekar, P. Y. Tan, D. Chan, K. Chiang, and N. C. Wong, “Thermal evaluation of vertical greenery systems for building walls,” Building and Environment, 45, no. 3, pp. 663–672, Mar. 2010.
+
+# I. Susorova, M. Angulo, P. Bahrami, and B. Stephens, “A model of vegetated exterior facades for evaluation of wall thermal performance,” Building and Environment, 67, pp. 1–13, Sep. 2013.
+
+# I. Susorova, P. Azimi, and B. Stephens, “The effects of climbing vegetation on the local microclimate, thermal performance, and air infiltration of four building facade orientations,” Building and Environment, 76, pp. 113–124, Jun. 2014.
+
+# U. Mazzali, F. Peron, P. Romagnoni, R. M. Pulselli, and S. Bastianoni, “Experimental investigation on the energy performance of Living Walls in a temperate climate,” Building and Environment, 64, pp. 57–66, Jun. 2013.
+
+# E. A. Eumorfopoulou and K. J. Kontoleon, “Experimental approach to the contribution of plant-covered walls to the thermal behaviour of building envelopes,” Building and Environment, 44, no. 5, pp. 1024–1038, 2009.
+---
+# A. D. Tzachanis
+
+“The energy efficiency of natural shading with climbing plants,” 10, no. 9, pp. 1379–1385, 2011.
+
+# L. S. H. Lee and C. Y. Jim
+
+“Subtropical summer thermal effects of wirerope climber green walls with different air-gap depths,” Building and Environment, 126, pp. 1–12, 2017.
+
+# M. Haggag, A. Hassan, and S. Elmasry
+
+“Experimental study on reduced heat gain through green façades in a high heat load climate,” Energy and Buildings, 82, pp. 668–674, 2014.
+
+# D. Tudiwer and A. Korjenic
+
+“The effect of living wall systems on the thermal resistance of the façade,” Energy and Buildings, 135, pp. 10–19, 2017.
+
+# K. Perini, F. Bazzocchi, L. Croci, A. Magliocco, and E. Cattaneo
+
+“The use of vertical greening systems to reduce the energy demand for air conditioning. Field monitoring in Mediterranean climate,” Energy and Buildings, 143, pp. 35–42, 2017.
+
+# C. Y. Jim and H. He
+
+“Estimating heat flux transmission of vertical greenery ecosystem,” Ecological Engineering, 37, no. 8, pp. 1112–1122, 2011.
+
+# R. Djedjig, R. Belarbi, and E. Bozonnet
+
+“Experimental study of green walls impacts on buildings in summer and winter under an oceanic climate,” Energy and Buildings, 150, pp. 403–411, 2017.
+
+# F. Olivieri, R. C. Grifoni, D. Redondas, J. A. Sánchez-Reséndiz, and S. Tascini
+
+“An experimental method to quantitatively analyse the effect of thermal insulation thickness on the summer performance of a vertical green wall,” Energy and Buildings, 150, pp. 132–148, 2017.
+
+# M. Scarpa, U. Mazzali, and F. Peron
+
+“Modeling the energy performance of living walls: Validation against field measurements in temperate climate,” Energy and Buildings, 79, pp. 155–163, 2014.
+
+# Y. He, H. Yu, A. Ozaki, N. Dong, and S. Zheng
+
+“An investigation on the thermal and energy performance of living wall system in Shanghai area,” Energy and Buildings, 140, pp. 324–335, 2017.
+
+# G. Perez, J. Coma, S. Sol, and L. F. Cabeza
+
+“Green facade for energy savings in buildings: The influence of leaf area index and facade orientation on the shadow effect,” Applied Energy, 187, pp. 424–437, 2017.
+
+# J. Coma, G. Pérez, C. Solé, A. Castell, and L. F. Cabeza
+
+“New green facades as passive systems for energy savings on Buildings,” Energy Procedia, 57, pp. 1851–1859, 2014.
+
+# R. W. F. Cameron, J. Taylor, and M. Emmett
+
+“A Hedera green façade - Energy performance and saving under different maritime-temperate, winter weather conditions,” Building and Environment, 92, pp. 111–121, 2015.
+
+# L. Pérez-Urrestarazu, R. Fernández-Cañero, A. Franco, and G. Egea
+
+“Influence of an active living wall on indoor temperature and humidity conditions,” Ecological Engineering, 90, pp. 120–124, 2016.
+
+# M. Ottelé and K. Perini
+
+“Comparative experimental approach to investigate the thermal behaviour of vertical greened façades of buildings,” Ecological Engineering, 108, no. August, pp. 152–161, 2017.
+
+# H. Feng and K. Hewage
+
+“Lifecycle assessment of living walls: Air purification and energy performance,” Journal of Cleaner Production, 69, pp. 91–99, 2014.
+---
+# A. M. Hunter, N. S. G. Williams, J. P. Rayner, L. Aye, D. Hes, and S. J. Livesley, “Quantifying the thermal performance of green façades: A critical review,” Ecological Engineering, 63, pp. 102–113, Feb. 2014.
+
+# G. Pérez, J. Coma, I. Martorell, and L. F. Cabeza, “Vertical Greenery Systems (VGS) for energy saving in buildings: A review,” Renewable and Sustainable Energy Reviews, 39, pp. 139–165, 2014.
+
+# M. Manso and J. Castro-Gomes, “Green wall systems: A review of their characteristics,” Renewable and Sustainable Energy Reviews, 41, pp. 863–871, 2015.
+
+# S. Charoenkit and S. Yiemwattana, “Living walls and their contribution to improved thermal comfort and carbon emission reduction: A review,” Building and Environment, 105, pp. 82–94, 2016.
+
+# B. Riley, “The state of the art of living walls: Lessons learned,” Building and Environment, 114, pp. 219–232, 2017.
+
+# A. Medl, R. Stangl, and F. Florineth, “Vertical greening systems – A review on recent technologies and research advancement,” Building and Environment, 125, pp. 227–239, 2017.
+
+# P. A. Strachan and L. Vandaele, “Case studies of outdoor testing and analysis of building components,” Building and Environment, 43, no. 2, pp. 129–142, 2008.
+
+# R. Djedjig, E. Bozonnet, and R. Belarbi, “Modeling green wall interactions with street canyons for building energy simulation in urban context,” Urban Climate, 16, pp. 75–85, 2016.
+
+# Y. Y. Huang, C. T. Chen, and W. T. Liu, “Thermal performance of extensive green roofs in a subtropical metropolitan area,” Energy and Buildings, 159, pp. 39–53, 2018.
+
+# C. Y. Jim and L. L. H. Peng, “Weather effect on thermal and energy performance of an extensive tropical green roof,” Urban Forestry and Urban Greening, 11, no. 1, pp. 73–85, 2012.
