@@ -1,25 +1,19 @@
-# This script runs locally (w/LM Studio server) and an embedding model loaded.
-import json
 import os
+import json
 from config import *
 
-documents_directory = r"C:\Users\ARoncal\source\repos\GENAI-Joao\LLM-Knowledge-Pool-RAG\knowledge_pool"
+# Specify the directory you want to embed
+directory_to_embed = "C:/Users/ARoncal/source/repos/GENAI-Joao/knowledge_pool"  # Replace with your actual directory path
 
 def get_embedding(text, model=embedding_model):
-    text = text.replace("\n", " ")
-    # Break down the text into smaller chunks
-    chunks = [text[i:i+200] for i in range(0, len(text), 200)]
-    embeddings = []
-    for chunk in chunks:
-        embeddings.append(local_client.embeddings.create(input = [chunk], model=model).data[0].embedding)
-    # Average the embeddings
-    embedding = [sum(x)/len(x) for x in zip(*embeddings)]
-    return embedding
+   text = text.replace("\n", " ")
+   return local_client.embeddings.create(input = [text], model=model).data[0].embedding
 
-# Iterate over all .txt files in the directory
-for filename in os.listdir(documents_directory):
-    if filename.endswith('.txt'):
-        document_to_embed = os.path.join(documents_directory, filename)
+# Loop over the files in the directory
+for filename in os.listdir(directory_to_embed):
+    # Only process .txt files
+    if filename.endswith(".txt"):
+        document_to_embed = os.path.join(directory_to_embed, filename)
 
         # Read the text document
         with open(document_to_embed, 'r', encoding='utf-8', errors='ignore') as infile:
@@ -35,6 +29,7 @@ for filename in os.listdir(documents_directory):
             print(f'{i} / {len(chunks)}')
             vector = get_embedding(line.encode(encoding='utf-8').decode())
             database = {'content': line, 'vector': vector}
+            embeddings.append(database)
 
         # Save the embeddings to a json file
         output_filename = os.path.splitext(document_to_embed)[0]
@@ -43,4 +38,4 @@ for filename in os.listdir(documents_directory):
         with open(output_path, 'w', encoding='utf-8') as outfile:
             json.dump(embeddings, outfile, indent=2, ensure_ascii=False)
 
-        print(f"Finished vectorizing. Created {document_to_embed}")
+        print(f"Finished vectorizing. Created {output_path}")
